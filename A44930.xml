@@ -1,0 +1,2520 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Munster and Abingdon, or, The open rebellion there [brace] and [brace] unhappy tumult here (bred in the same wombe) that from Sleidans Comm. L. 10. [brace] [brace] this from eye and eare witnesses : with marginal notes of Mvncer and Mahomet, faithfully communicated to English readers, in a booke and postscript, for a seasonable caution to the British nation and a serious check to rash and giddy spirits / by W.H.</title>
+            <author>Hughes, William, fl. 1665-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 147 KB of XML-encoded text transcribed from 63 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44930</idno>
+            <idno type="STC">Wing H3344</idno>
+            <idno type="STC">ESTC R39005</idno>
+            <idno type="EEBO-CITATION">18206026</idno>
+            <idno type="OCLC">ocm 18206026</idno>
+            <idno type="VID">107072</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44930)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107072)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1125:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Munster and Abingdon, or, The open rebellion there [brace] and [brace] unhappy tumult here (bred in the same wombe) that from Sleidans Comm. L. 10. [brace] [brace] this from eye and eare witnesses : with marginal notes of Mvncer and Mahomet, faithfully communicated to English readers, in a booke and postscript, for a seasonable caution to the British nation and a serious check to rash and giddy spirits / by W.H.</title>
+                  <author>Hughes, William, fl. 1665-1683.</author>
+               </titleStmt>
+               <extent>[14], 110 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hall ... for Robert Blagrave,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Hughes by Wing.</note>
+                  <note>Includes marginal notes.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>John, --  of Leiden, ca. 1510-1536.</term>
+               <term>Anabaptists --  Germany --  Münster.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107072:1" rendition="simple:additions"/>
+            <p>
+               <hi>Munſter</hi> and <hi>Abingdon Or the</hi> Open Rebel<g ref="char:EOLhyphen"/>lion
+<hi>there,</hi> and Unhappy Tu<g ref="char:EOLhyphen"/>mult <hi>here. (Bred in the ſame
+wombe)</hi> THAT From <hi>Sleidans</hi> Comm. L. 10. THIS From eye and eare
+witneſſes. With Marginall Notes of <hi>MVN<g ref="char:EOLhyphen"/>CER</hi> and <hi>MAHOMET.</hi>
+Faithfully communicated to Engliſh Rea<g ref="char:EOLhyphen"/>ders, in a <hi>Booke</hi> and
+<hi>Poſtſcript,</hi> For <hi>A ſeaſonable Caution to the Britiſh
+Nation.</hi> And <hi>A ſerious check to raſh and Giddy ſpirits.</hi>
+            </p>
+            <p>By <hi>W. H.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>2 Tim. 3, 1, 2, 3, 4.</hi>
+               </bibl> 
+               <p>In the laſt daies perillous times ſhall come; for men ſhall
+be lovers of their owne ſelves—deſpiſers of thoſe that are good,
+Traytors, heady, high minded &amp;c.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Matth. 24.24.</hi>
+               </bibl> 
+               <p>For there ſhall ariſe falſe Chriſts and falſe Prophets
+—inſomuch that (if it were poſſible) they ſhall deceive the very
+Elect.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Mark. 13.37.</hi>
+               </bibl> 
+               <p>What I ſay to you I ſay to all, WATCH.</p>
+            </q>
+            <p>
+               <hi>OXFORD.</hi> Printed by HENRY HALL Printer to the
+Univer<g ref="char:EOLhyphen"/>ſity, for ROBERT BLAGRAVE. 1657.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:107072:2"/>
+            <head>The Books Requeſt.</head>
+            <p>Heare me, <hi>but</hi> out, <hi>My Judge,</hi> before Thou
+ſentence paſs; I'le ask no more.</p>
+         </div>
+         <div type="translators_preface">
+            <pb facs="tcp:107072:2"/>
+            <head>The Tranſlators Preface.</head>
+            <opener>
+               <salute>Serious Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He <hi>Husbandman</hi> was not more diligent to ſow his
+<hi>corne,</hi> than the<note n="a" place="margin">
+                  <hi>Matth.</hi> 13.25.</note>
+               <hi>Enemy</hi> was to ſcatter <hi>tares</hi> among it. The Event doth prove
+this was no leſſe <hi>propheticall</hi> than <hi>Hiſtoricall.</hi> Where
+ever was a <hi>Chriſtian Reforma<g ref="char:EOLhyphen"/>tion</hi> ſet on foot, but a
+<hi>Deviliſh De<g ref="char:EOLhyphen"/>formation</hi> dog'd it at the very heeles? Let a <hi>Church
+for Chriſt</hi> be ſetting up, 'tis hard but <hi>Sathans Chappell</hi>
+mates it. To <hi>ſpie abroad</hi> for obſervations of this kind is to
+overlooke the <hi>beame at home.</hi> Aske but the ſeven yeares paſt with
+us, and you ſhall quickly find, <hi>this land</hi> hath not injoy<g ref="char:EOLhyphen"/>ed its
+<hi>Sabbath</hi> from this ſort of <hi>Sowers</hi> yet. Not, but that we
+ſee, <pb facs="tcp:107072:3"/>and thankfully acknowledge a hope<g ref="char:EOLhyphen"/>full harveſt of better
+fruits. But when the <hi>Laborers</hi> are ſo few alrea<g ref="char:EOLhyphen"/>dy, that a deſigne
+ſhould drive ſo <hi>Jehu-like</hi> to keepe off <hi>others,</hi> yea turne
+off <hi>theſe,</hi> (though ſuch as Chriſt hath ſet on worke, and
+pro<g ref="char:EOLhyphen"/>ſpered in it to the bringing in of <hi>all,</hi> or <hi>moſt</hi> that
+are not yet abroad) to <hi>turne off theſe,</hi> I ſay, ſure this makes
+plaine to halfe an eye <hi>there, is no freind at worke.</hi> Yet do not we
+<hi>ſee</hi> thoſe ſpirits, wide as <hi>Dover</hi> and
+<hi>New<g ref="char:EOLhyphen"/>caſtle</hi> from one <hi>another,</hi> and <hi>them<g ref="char:EOLhyphen"/>ſelves</hi> too
+oft, meete here? And to cry downe the <hi>publique Miniſtry,</hi> as eager as
+they to cry up <hi>(b) Diana?</hi> A plot,<note place="margin">
+                  <hi>Act.</hi>
+19.28.</note> whether leſſe <hi>Chriſtian,</hi> or <hi>Humane,</hi> I
+cannot tell. Let me ſay nothing, the thing it ſelfe will ſpeake, that
+ſince their time, who were immediately called from hea<g ref="char:EOLhyphen"/>ven, the
+<hi>Godly-learned Miniſters</hi> were the men that planted, water'd, yea and
+ſoyld <hi>with their very blood</hi> 
+               <pb facs="tcp:107072:3"/>the Church of Chriſt in
+every age. Were they not <hi>thoſe</hi> that, under God, did firſt deliver
+<hi>our ſoules</hi> from An<g ref="char:EOLhyphen"/>tichriſtian bondage at the utmoſt pe<g ref="char:EOLhyphen"/>rill of
+<hi>their owne bodies?</hi> Witneſſe <hi>Luther, Zuinglius, Caluin:
+Latimer, Ridly, Hooper, Bradford,</hi> and that cloud of others ſtaked at the
+fire in England. Who elſe have beene the <hi>ſpirituall Fathers</hi> to the
+thouſands of faithfull holy ſoules (now gone to heaven) for the hundred
+yeares laſt paſt, with us and other places: yea, and begat to grace and
+knowledge thoſe (therewith endued) whoſe vio<g ref="char:EOLhyphen"/>lence now againſt them
+labours to make requitall with worſer than <hi>Ca<g ref="char:EOLhyphen"/>ſhiering</hi> for their
+ſervice? Which were it once effected, and no publique Miniſtry longer left
+among us, into what a <hi>dolefull, heatheniſh, helliſh, plight,</hi>
+thoſe many hundred pariſhes (too ignorant and prophane already) in theſe
+Nations would be quickly caſt? ſpecially ſince we ſee the Devill 
+<pb facs="tcp:107072:4"/>and his drudges are not idle, <hi>Reader,</hi> let thy ſad
+thoughts reſolve thee. O diſmall day when Judgment ſends a famine,<note place="margin">
+                  <hi>Amos</hi> 8.11</note> not of bread but of the word of
+God,<note place="margin">
+                  <hi>Nu.</hi> 21.5.</note> upon a Land that fell to
+loa<g ref="char:EOLhyphen"/>thing of it! We know, <hi>with God all things are poſsible,</hi> but know
+not, why to looke for miracles, and leave off ſuch a courſe himſelfe
+<hi>appoynted,</hi> and from heaven ſo long and often hath <hi>approved.</hi>
+And then for inhuma<g ref="char:EOLhyphen"/>nity, what is more barbarous than that ſo many hundred
+families of Godly Miniſters, to whom we are ſo nearely related <hi>as
+men,</hi> in a manner of the ſame fleſh and blood with our ſelves; and to
+whom we owe ſo much <hi>as Chriſtians,</hi> ſhould, <hi>for no other
+fault but their well deſerving at our hands,</hi> be turned out of their
+propri<g ref="char:EOLhyphen"/>ety, and ſent a begging, againſt all <hi>right</hi> and
+<hi>reaſon,</hi> as we ſpeake, all <hi>Law</hi> and <hi>Conſcience?</hi>
+Bleſſed be God, our former Governours have waſhed their hands of any
+ſuch like <pb facs="tcp:107072:4"/>buſineſſe, and we nothing doubt but that ſuch
+ſpeciall grace is pre<g ref="char:EOLhyphen"/>ſent with thoſe now preſent at the <hi>Helme</hi>
+that they will continue to abhor it. And we truſt, through mer<g ref="char:EOLhyphen"/>cy,
+notwithſtanding all the <hi>catching</hi> at the <hi>ſtirrup</hi> by ſome
+furious ſpirits, they never ſhall be able to <hi>diſmount</hi> the
+<hi>Riders</hi> to get themſelves into the <hi>ſaddle.</hi> Let what there
+will be <hi>up<g ref="char:EOLhyphen"/>permoſt</hi> tis ſadly feared (if not plain<g ref="char:EOLhyphen"/>ly manifeſt)
+ſuch a buſineſſe lyeth at the <hi>bottome.</hi> Should which time come,
+what <hi>fence</hi> another mans propriety can get when the Miniſters ſhall
+lie <hi>common</hi> you'le quickly <hi>ſee unto your Coſts.</hi> Meane
+while, for a Comment on the whole, <hi>Reader,</hi> Ibe<g ref="char:EOLhyphen"/>ſeech the read &amp;
+well conſider the enſuing ſtory: where thou ſhalt Find <hi>a pretended
+zeale for ſetting up Chriſts Kingdome on the earth made uſher</hi> (oh
+moſt dreadfully!) <hi>to the verydregs of villanies ſpit from
+Hell.</hi>
+            </p>
+            <p>The truth of which ſaid <hi>ſtory</hi> on <pb facs="tcp:107072:5"/>underſtanding and indifferent perſon will ever call to queſtion.
+But yet becauſe <hi>abſurdities</hi> are ſo much <hi>in faſhion,</hi>
+let me intreat the ſcrupu<g ref="char:EOLhyphen"/>lous perſon (for ſuch there are too many) to
+conſider what beames of evidence he ſhuts his eyes againſt: How likely is
+it we ſhould be abuſed in a buſineſſe—</p>
+            <p>Firſt, So <hi>publique:</hi> not done in a Corner,<note place="margin">
+                  <hi>This Story</hi> 1. <hi>Publique.</hi>
+               </note> but the
+principall City of Weſtphalia, Munſter. 2. So ma<g ref="char:EOLhyphen"/>ny Councils ſitting in
+the Empire about it. 3. An Army of many thouſands rayſed for it. 4. And a
+ſiege almoſt a yeare and halfe be<g ref="char:EOLhyphen"/>fore the City, ere it could be taken:
+<hi>with yet much more like that.</hi>
+            </p>
+            <p>Secondly,<note place="margin">2. <hi>La'e Anno.</hi> 1517
+<hi>Ann.</hi> 1536</note> and ſo <hi>late:</hi> After <hi>Luther</hi> had
+began the Reformation ſome nine-teene yeares, and now juſt ſixſcore
+ſince thoſe ſtirs were ended.</p>
+            <p>Thirdly,<note place="margin">3. <hi>Neare.</hi>
+               </note> ſo
+<hi>neare us:</hi> not in Tar<g ref="char:EOLhyphen"/>tary, <pb facs="tcp:107072:5"/>China or the Indies (though
+thence we have intelligence that goes for currant) but in Germany, and that
+part thereof that borders on the Low Countries: <hi>almoſt at home.</hi>
+            </p>
+            <p>Laſtly,<note place="margin">4. <hi>And having multi<g ref="char:EOLhyphen"/>tudes of
+Authe<g ref="char:cmbAbbrStroke">̄</g>tique Authours.</hi>
+               </note> and <hi>that hath ſo many credible Authors.
+Luther, Melanct<g ref="char:EOLhyphen"/>hon, Bullinger, Menius,</hi> and <hi>Rhegius,</hi> with
+ſcores of others, <hi>were it worth the while,</hi> that might be named. And
+now theſe, 1. ſo far from Papiſts, as firſt reſtorers of the
+Goſpell. 2. Men of eminent piety. 3. That lived in the ſame Country. 4. At
+the ſame time, ſpectators, in a man<g ref="char:EOLhyphen"/>ner, of the whole buſineſſe from
+firſt to laſt. And for this Author M<hi rend="sup">r</hi> 
+               <hi>Sleidan;</hi> He was a
+Proteſtant, one fearing God, and then living there, and of great eſteeme
+and credit a<g ref="char:EOLhyphen"/>mongſt all profeſſors of the Goſ<g ref="char:EOLhyphen"/>pell, and deſervedly
+famous for his writings to paſt, and preſent, and ſuc<g ref="char:EOLhyphen"/>ceeding ages: and
+which is of ſpeciall <pb facs="tcp:107072:6"/>notice, one <hi>that tooke not any thing
+upon</hi> meere hereſay, <hi>but all ei<g ref="char:EOLhyphen"/>ther of his</hi> owne knowledge,
+<hi>or out of</hi> publique Records.</p>
+            <p>He that will not yet believe it, doubts happily of our bloody
+<hi>Mari<g ref="char:EOLhyphen"/>an daies,</hi> the <hi>eightie eight Invaſion,</hi> the <hi>powder
+Plot,</hi> the <hi>fight at Edg-Hill.</hi> It may be whether <hi>the woman,
+that bred, and brought him forth, be his owne mother.</hi> And ſo is worthy
+not of <hi>words</hi> but <hi>ſtripes</hi> for gaining his aſſent.</p>
+            <p>Touching the Tranſlation, onely thus much. It was ſo much my
+<hi>care,</hi> (ſome happily will call it <hi>ſuperſtition</hi>) to tread
+exactly in the <hi>Authors ſteps</hi> (ſaving the diviſions into
+chapters, and contents thereon) that I would not <hi>ſtep aſide</hi> to
+take up any the pro<g ref="char:EOLhyphen"/>prieties of our <hi>Engliſh ſpeech</hi> that lay on
+either hand as we paſſed along. But this too, as the reſt, is humbly
+caſt at ingenuous Criticks feet.</p>
+            <p>If any ſay; Sure thoſe with us <pb facs="tcp:107072:6"/>againſt
+<hi>Infant Baptiſme</hi> are not of kin unto the <hi>Germanes</hi> mentioned
+in this ſtory.</p>
+            <p>I anſwer, That it is no doubt with me, but that many Godly,
+precious ſoules are found amongſt them, whoſe <hi>hearts would
+riſe</hi> at the very hearing of <hi>this helliſh tragedy:</hi> whoſe
+ſoules eſtabliſhment in the grace of God we pray for, and whoſe
+Chri<g ref="char:EOLhyphen"/>ſtian fellowſhip we gladly ſhould em<g ref="char:EOLhyphen"/>brace, and mourne to ſee the
+<hi>folly</hi> that keeps them at <hi>ſuch a diſtance.</hi> Yet truly, in
+this houre of temptation, <hi>many, many ſeeming ſtars have fallen from
+heaven:</hi> and this <hi>our age</hi> hath ſpoken more, <hi>to carnall
+reaſon</hi> for Saints finall Apoſtacy, than all <hi>Ar<g ref="char:EOLhyphen"/>minian
+arguments.</hi> Yea, to ſpeake our hearts, whoſo ſhall pleaſe but
+heedfully to feele the pulſe, and mark the face of many <hi>leaders now
+adayes among them,</hi> I feare wil be too apt to ſay I find <hi>ſome John
+a-Leidens Fel<g ref="char:EOLhyphen"/>lowes.</hi> For my part I will leave it <pb facs="tcp:107072:7"/>to the
+Readers judgment, whether <hi>that Spirit</hi> that biddes ſo faire as both
+at once to pull downe the <hi>publique Miniſtry</hi> and roote up the
+<hi>ſettled Magiſtracy</hi> looke not ſo <hi>like him</hi> as if it were
+his <hi>owne begotten.</hi>
+            </p>
+            <p>This is a truth of Gods owne teaching,<note place="margin">
+                  <hi>Jer.</hi> 17.9.</note> that <hi>the heart is deceitfull above
+all things, and deſperately wick<g ref="char:EOLhyphen"/>ed, who can know it?</hi> And we our
+ſelves by ſad experience have often learn't it, that many have thought it
+utterly impoſſible for them, ever to <hi>incline</hi> unto ſuch wretched
+cour<g ref="char:EOLhyphen"/>ſes, as afterwards they have beene <hi>mad in.</hi> When the Prophet
+told <hi>Hazael</hi> what miſchiefe he ſhould ſometimes do in
+<hi>Iſrael.</hi> Is thy ſer<g ref="char:EOLhyphen"/>vant a dog, quoth he, to do this? But the event
+made it truer than he was aware of,<note place="margin">2 <hi>Kings</hi> 8.13.
+<hi>with</hi> 10.32, <hi>&amp;c.</hi> 13.324, 22.</note> 
+               <hi>whilſt be wanted
+power to effect it.</hi> And truly <hi>Reader,</hi> here with us they are but
+<hi>young daies</hi> yet: all<g ref="char:EOLhyphen"/>though, alas! every moment thri<g ref="char:EOLhyphen"/>veth, <hi>but too
+faſt,</hi> towards a diſmall <hi>noone.</hi>
+            </p>
+            <pb facs="tcp:107072:7"/>
+            <p>To conclude: this uſe, at leaſt, this ſtory ſerves us to:
+that trembling to behold Gods righteous judgments againſt abuſed
+kindneſſe, where ever we find this ſpirit working in another (thoug with
+the ſmootheſt face) we ſtop it what we may: and for our ſelves to
+<hi>watch and pray leſt we fall into temptation.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <head> 
+            <pb facs="tcp:107072:8"/> 
+            <pb facs="tcp:107072:8"/> The Hiſtory of <hi>John a-Leyden,</hi>
+The Anabap<g ref="char:EOLhyphen"/>tiſt King in Munſter.</head>
+         <div n="1" type="chapter">
+            <head>CHAP. I.</head>
+            <argument>
+               <p> The Introduction. Of <hi>T. Munſter.</hi> And Anabaptiſts in
+generall.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">W</seg>Ee are coming now to the ſeige of <hi>Munſter,</hi> the
+principall City of <hi>Weſtphalia:</hi> ſave that ſomething muſt be
+fur<g ref="char:EOLhyphen"/>ther fetched, even from the firſt beginning of thoſe ſtirrs till
+their <hi>Authors</hi> puniſhment upon the taking of the City. Of
+<hi>Thomas</hi> 
+               <pb n="2" facs="tcp:107072:9"/>
+               <note n="(a)" place="margin">The ſtory is
+briefely thus: Mun<g ref="char:EOLhyphen"/>cer having leſt the Preaching of the Goſpell, fell to
+new Doctrine; inveighs not only againſt the Pope, but Luther alſo: At
+firſt he taught againſt Prophaneſſe, would have the body Curbd with
+faſting, and meane attire; was for a grave ſet face litle talke private
+meditation &amp;c. Then we muſt aske of God a ſigne that he did love us,
+and chide him too, if he gave us none: That God revealed his will in dreames;
+that revelations with the Scripture muſt be our Rule, withall community of
+goods did beſt become us; and all to be of equall ranke. At laſt, ungodly
+Magiſtrates muſt be downe; in order whereto he gets <hi>8000</hi> men
+toge<g ref="char:EOLhyphen"/>ther, and exherts them to fightagainſt their princes, by this time with
+an Army neere them, tells them they knew t'was not his fancy, but Gods Comm and
+that ſet them on this worke, And helpe from heaven ſhould make them
+Conquerors: As for their Bullets he would receive them all in his owne Coate:
+And Loe, ſaith he, what a gra<g ref="char:EOLhyphen"/>cious God we have! Behold the taken of his
+everlaſting favours Lift up your eyes and ſee the Raine-bow in the Heavens,
+which ſince we have its picture in our Colours, Showeth plainely God will be
+with us in the Battell to our enemies Raine. At the encounter <hi>Mun<g ref="char:EOLhyphen"/>cers</hi>
+Party is quick'y routed <hi>5000</hi> ſlaine in the field, <hi>300</hi> more
+in a Towne they ran too: Muncer was hid in a houſe by the Gate: Thither comes
+in a noble mans ſervant, to ſee the houſe: gets up the ſtaires, finds
+one in bed, askes whether he be one of the Rebels. Mun<g ref="char:EOLhyphen"/>cer ſaith, no: But
+that he had beene ſick a great while of a feaver. The Servant Spyes apurſe
+Catch'd it with hope to have a Prize, Opening he findeth letters unto
+<hi>Muncer</hi> from the Earle of Mans<g ref="char:EOLhyphen"/>feild to for beare Rebellion: Then askes
+him whither they were ſent to him or not: on his denyall, the ſervant
+threatneth to diſpatch him: he prayes him to hold; and confeſſeth he is
+<hi>Muncer:</hi> Then on the Rack crying out for paine they bid him now
+remember how many ſilly ſoules his Villany had deſtroyed to day. He with
+a mighty Laugh<g ref="char:EOLhyphen"/>ter, ſayes, Themſelves deſired it: Yet at the Point of
+death he publike<g ref="char:EOLhyphen"/>ly confeſſed his fault. But for Example ſake his head
+cut off was faſtened to a ſpeare and Placed in the miale of the Camp. This
+was in Germany the yeare <hi>1525.</hi>
+               </note> 
+               <hi>Muncer's</hi> his
+ſedi<g ref="char:EOLhyphen"/>tion amongſt the Rable, <pb n="3" facs="tcp:107072:9"/>his doctrine and his end,
+our fift booke made report. By him was hatched that brood of men who for their
+Practiſe and opinion are called <hi>Anabaptiſts:</hi> of whom alſo
+ſomething hath beene ſaid allready. 
+<q>For they for bid Baptizing litle ones, are rebaptized
+themſelves, affirming, All men elſe ſhould do the ſame, and cleer<g ref="char:EOLhyphen"/>ly
+Null the former Bapiſtme. They pretend unto an outward dreſſe of
+Holi<g ref="char:EOLhyphen"/>neſſe, Teach Chriſtians ſhould not goe to Law, beare Civill
+office, make oath, maintaine propriety, but leave all things Common.</q> They
+began with Theſe; then, matters farre more beynous, as I ſhall ſhew anon.
+And whereas <hi>Germany</hi> was farre and neere infeſted with them. Yet,
+<hi>Luthers</hi> and moſt other learned mens oppoſitions to them, with the
+Ma<g ref="char:EOLhyphen"/>giſtrates narrower eye upon them tooke ſo, that they could hardly
+<hi>Sowder into a Conſiderable Number.</hi> At laſt they fixed in the
+aforeſaid City ſtrongly fortified.</p>
+         </div>
+         <div n="2" type="chapter">
+            <pb n="4" facs="tcp:107072:10"/>
+            <head>CAP. II. </head>
+            <argument>
+               <p>
+                  <hi>B. Rotman</hi> firſt brings the Goſpell to Munſter. The
+Popiſh Clergy oppoſe. But in vaine. And are ſilenced.</p>
+            </argument>
+            <p>It fell out thus: hard by this Munſter is St Maurice Church; There
+did one <hi>Ber<g ref="char:EOLhyphen"/>nard Rotman</hi> in the yeare of our Redemp<g ref="char:EOLhyphen"/>tion 1532, with
+great Concourſe of the Citizens, preach the Goſpell, and when they had
+ſome thoughts of getting him into the City, the <hi>Popiſh Prieſts,</hi>
+to pre<g ref="char:EOLhyphen"/>vent it, give him a pretty ſumme of mo<g ref="char:EOLhyphen"/>neyes to exerciſe himſelfe
+ſome other where. He takes his leave, and having veiw'd ſome Places where
+he might im<g ref="char:EOLhyphen"/>prove his parts, a few moneths after comes back againe. They, angry
+at his returne, would faine have put him off from Preaching: But all in Vaine,
+the People being taken with him. Soone after he is entertained in the City by
+cer<g ref="char:EOLhyphen"/>taine of the Cheifeſt Citizens, and when the Church was ſhut againſt
+him, they make a Pulpit for him in the Porch with<g ref="char:EOLhyphen"/>out.</p>
+            <pb n="5" facs="tcp:107072:10"/>
+            <p>But the number of the Citizens and his hearers encreaſing dayly.
+They require the Preiſts to ſet open the Church, or they would breake it
+up.</p>
+            <p>In the Nicke of this, He, by Advice of <hi>thoſe the People
+choſe theretoo,</hi> diſpatcheth letters into <hi>Haſſia,</hi> that was
+neere them of the Lantgraves Juriſdiction, to deſire that ſome learned
+Godly men might bee ſent unto him, there to ſow the Goſpell with him. Two
+hereupon are ſent from <hi>Mar<g ref="char:EOLhyphen"/>purgh.</hi> Upon their comming ſix of them
+get together and conſult of the quickeſt courſe to ſet the Popiſh
+Clergy packing, that the Goſpell might ſucceed the bet<g ref="char:EOLhyphen"/>ter. The beſt
+expedient found hereto was this; They draw up the Popiſh Er<g ref="char:EOLhyphen"/>rors and digeſt
+them into ſome thirty heads: Thoſe they deliver to the<note n="(a)" place="margin">Or Com<g ref="char:EOLunhyphen"/>mon Coun<g ref="char:EOLunhyphen"/>cell that Ruled the City.</note> Senate with this
+reſolution, That if they 
+<q>did not <hi>Prove</hi> by the <hi>word of God</hi> All thoſe
+waged war therewith, they would ſubmit to any puniſhment.</q>
+            </p>
+            <p>The ſenate Calls the Preiſts into the Court, and propoſe the
+Errours whereof we ſpake. And becauſe they ever bare in hand their doctrine
+to be pure, and groun<g ref="char:EOLhyphen"/>ded on the word of God, which the Prea<g ref="char:EOLhyphen"/>chers now deny,
+and offer to make good <pb n="6" facs="tcp:107072:11"/>upon their lives, 
+<q>They aske them, whe<g ref="char:EOLhyphen"/>ther they would confute by Scriptures, what
+ſhould be objected?</q> They, thus demanded, and perceiving that the Senate
+was in very earneſt in the buſineſſe, make a ſhort Anſwer, 
+<q>That they had juſt no<g ref="char:EOLhyphen"/>thing to defend their cauſe withall, but
+whereas hitherto they did pretend their way was right and good, twas from
+opi<g ref="char:EOLhyphen"/>nion and their Ignorance.</q> The Senate then, ſince they convicted of
+their errors and falſe doctrine, could ſay nothing for themſelves, but
+confeſſe their naugh<g ref="char:EOLhyphen"/>tineſſe, command them henceforth not to medleany
+more with taching, but give way in all the Churches to theſe new Teachers
+that had unmasked their knavery. On this (the People too concurring with the
+Senate) the Churches were Aſſigned to them reſpectively where to
+teach.</p>
+         </div>
+         <div n="3" type="chapter">
+            <pb n="7" facs="tcp:107072:11"/>
+            <head>CAP. III.</head>
+            <argument>
+               <p> The Biſhop inſtigated by the ſilenced Pricſts blocks up
+the City, this party is ſurpriſed by the Citi<g ref="char:EOLhyphen"/>zens. Indentures of Peace are
+mutu<g ref="char:EOLhyphen"/>ally Signed.</p>
+            </argument>
+            <p>THat Buſineſſe bred ill bloud among the Preiſts, them
+eſpecially of the Ca<g ref="char:EOLhyphen"/>thredrall Church, for the moſt part all of Noble
+Bloud. They, none other ſhift being left, depart in rage, applying to the
+Biſhop of that City. Whereupon Coun<g ref="char:EOLhyphen"/>cell had, it was reſolved to block up
+all the waies, that no proviſion might come to the City. <hi>A</hi> little
+after, the waies be<g ref="char:EOLhyphen"/>ing all and every where beſet, the Biſhop with thoſe
+of whom I ſpake, to promote their worke the better, comes unto
+<hi>Tol<g ref="char:EOLhyphen"/>get,</hi> a little Towne ſome one mile diſtant from the City.
+Thence letters are diſpatched unto the Senate to this pur<g ref="char:EOLhyphen"/>poſe. 
+<q>That they forbeare their Courſe, reſtore their former State,
+or to be ta<g ref="char:EOLhyphen"/>ken <pb n="8" facs="tcp:107072:12"/>as Enemies.</q> The Biſhop was Earle
+<hi>Francis Waldec,</hi> next before him had beene <hi>Frederick,</hi> owne
+Brother to the <hi>Archbiſhop</hi> of <hi>Colen.</hi> But He, whether
+becauſe he had not well his health there, or that he ſmelt out ſomething,
+not long, be<g ref="char:EOLhyphen"/>fore of his owne accord had left the Place, and to live private,
+returned him home into his Countrey. They of Munſter well pauſing on the
+buſineſſe, deteine the Meſſenger, and the night before Chriſts
+birthday about 900 Sallying forth un<g ref="char:EOLhyphen"/>looked for take both the little Towne and
+(making good the Gates that none might ſcape) All that were in it. The
+Biſhop as fell out, was gone the day before. The priſoners were forthwith
+brought into the City. Amongſt them were the eminenteſt of the Clergy, and
+ſome alſo of the Nobility; The Senate askes them, what their pleaſure is,
+&amp; if they meane to ſtop the Preaching of the Goſ<g ref="char:EOLhyphen"/>pell. They freely
+Anlwer, Their endeavors ſhould not be wanting to promote that doctrine.
+Hereon they ſtrike the bargain. A Copy whereof the Senate ſent the
+Lant-grave, with all beſeeching for the Goſpels ſake and publike good to
+have his helping hand. He ſendeth ſome of his <pb n="9" facs="tcp:107072:12"/>owne to
+them: by whoſe Mediation t'was concluded, 
+<q>that their hearts agreed, and diſtaſt removed, both ſides
+ſhould cheriſh peace: The Goſpell to be prea<g ref="char:EOLhyphen"/>ched in ſix Churches, all
+ſuperſtitious and ungodly worſhip turn'd packing:</q> in the Cathedrall
+Church, no alteration to be made, nor the City reckon that in any caſe
+belonging unto them. This forme of their agreement was ſigned by the
+<hi>Lantgrave,</hi> the Biſhop and his Party, the Nobility and all the
+people, <hi>Feb.</hi> 14. the yeare of our redemption 1533.</p>
+         </div>
+         <div n="4" type="chapter">
+            <head>CHAP. IIII.</head>
+            <argument>
+               <p> Leiden arriveth. Starteth Anabap<g ref="char:EOLhyphen"/>tiſme. Rotman oppoſeth
+publiquely. A diſputation is entred. Rotman revolts. And the Ana<g ref="char:EOLhyphen"/>baptiſts
+are baniſhed.</p>
+            </argument>
+            <p>THings thus appeaſed, there came to Munſter a certaine
+Holland<note n="(a)" place="margin">That is a mender of old Clothes.</note>
+Botch<g ref="char:EOLhyphen"/>er, one <hi>John a-Leiden</hi> an eager Anabap<g ref="char:EOLhyphen"/>tiſt. He at the firſt
+inſinuating into a <pb n="10" facs="tcp:107072:13"/>familiar diſcourſe with them;
+would uſe to aske the Preachers of the Goſpell whither they thought, that
+Infants duly might be baptized, They ſaying, yea, He that was warped quite
+Crooked on the other ſide, begins to laugh &amp; ſcorne there<g ref="char:EOLhyphen"/>at. Which
+taken notice of <hi>Bernard Rot<g ref="char:EOLhyphen"/>man</hi> (of whom before) exhorts the Peo<g ref="char:EOLhyphen"/>ple
+in his Sermon to pray that ſound do<g ref="char:EOLhyphen"/>ctrine 
+<q>might be preſerved with them, and kept incorrupt from fanatique
+Perſons, the Anabaptiſts eſpecially, who at this time did Creepe
+amongſt them, and get in peoples company, whoſe opi<g ref="char:EOLhyphen"/>nion ſhould it
+prevaile woe, would it be, not only to the ſtate of Common-wealth but alſo
+of Religion.</q> Juſt then, almoſt, comes thither <hi>Herman Strapeda,</hi>
+who be<g ref="char:EOLhyphen"/>ing made <hi>Rotmans</hi> Colleague, publikely Inveighs againſt
+Poedobaptiſme. His Ma<g ref="char:EOLhyphen"/>ſter was one <hi>Henry Rolls,</hi> whom they of
+<hi>
+                  <g ref="char:V">Ʋ</g>trecht</hi> (before this time a little) had pu<g ref="char:EOLhyphen"/>niſhed for
+Anabaptiſme. This fellow was indeed another ſtep to this new kind of
+doctrine. And now the Buſineſſe was of ſuch a Pitch, that moſt of all
+the talke about the City was of Anabaptiſts; Though things were yet but
+cloſely Car<g ref="char:EOLhyphen"/>ryed. For none could be admitted but <pb n="11" facs="tcp:107072:13"/>who were
+of their Sect. And then the Authors did not openly profeſſe theſe things,
+nor teach them, but by night; and when others were aſleepe then only were
+their holy exerciſes. But the buſineſſe coming out, when very many of
+the Ci<g ref="char:EOLhyphen"/>tizens were enrag'd at it, crying out, 
+<q>T'was baſe, an upſtart Tenet ſhould be ſcattered privily
+and by night,</q> The Senate ordered, That the Authors ſhould be gone the
+City. But they going forth return'd another way, Vapouring, That they had
+Command from God to ſtay, and There, in earneſt to goe through with their
+buſineſſe. This was a Trouble to the Senate and ſomewhat did amaze
+them, and therefore to prevent diſtur<g ref="char:EOLhyphen"/>bance and farther danger the Preachers
+both of the Goſpell, and of Anabaptiſme are commanded their appearance at
+the Court, and ſome learned men together with them. Then <hi>Rotman,</hi>
+which he had conceal'd till now, ſhewes himſelfe; and condemneth
+Paedobaptiſme as a wicked and accurſed thing. But <hi>Herman Buſch</hi>
+eſpecially did ſo make good the other ſide before the Senate, That they
+were by Publike Order Commanded forthwith <pb n="12" facs="tcp:107072:14"/>to depart the
+City. Yet when they Pleaded that they could not ſafely paſſe the
+Biſhops Countrey, The Senate both procured them publike faith, and alſo
+gave proviſion for their Journey. But they who long before, reſolved not to
+ſtirre a foot, ſtep privily aſide into their owne Aſſociates, and lie
+cloſe a while.</p>
+         </div>
+         <div n="5" type="chapter">
+            <head>CAP. V.</head>
+            <argument>
+               <p> The Lantgrave ſendeth Preachers. A freſh debate appointed.
+And the termes rejected by the Anabaptiſts.</p>
+            </argument>
+            <p>MEane time the Senate, e're they might againe appeare above board,
+ſhut all the Churches up, ſave onely one. For it was feared, leaſt the
+Anabaptiſts, whoſe number dayly did encreaſe, ſhould with their
+ſpeakers Tumble out the Preachers of the Goſpell from the Church. Then, in
+the moneth of No<g ref="char:EOLhyphen"/>vember the <hi>Lantgrave</hi> at entreaty of the Senate,
+ſent them two Teachers, <hi>Theodo<g ref="char:EOLhyphen"/>rique Fabrice,</hi> and <hi>John
+Melſinger:</hi> And this, perceiving the diſturbance, ſtartled 
+<pb n="13" facs="tcp:107072:14"/>alſo at the danger, goes home againe. The other
+vigorouſly admoniſhed the Citizens to keepe a jealous eye upon the
+Anabaptiſts Doctrine. After which rate he held untill the Anabaptiſts
+getting uppermoſt turned the others out of Towne, as you ſhall here anon,
+And that nothing might be wanting, he drawes up a forme of doctrine &amp;
+Church-govern<g ref="char:EOLhyphen"/>ment, to the Content both of the Senate and the People. Then,
+with the Senates leave, <hi>Peter Wirtem</hi> begins to Teach againe. But a few
+Sermons hardly over, by <hi>Rot<g ref="char:EOLhyphen"/>mans</hi> Inſtigation, the Anabaptiſts
+caſt him out. Who now growing feircer challenge <hi>Fabrice</hi> and others
+to a diſputation. The Senate likeing it, it was thought meete to have the
+buſineſſe managed from holy Scriptures and other writings ſuting with
+them: ſome honeſt learned men, as mode<g ref="char:EOLhyphen"/>rators, to be joyned; who upon due
+Cog<g ref="char:EOLhyphen"/>nizance of the opinions and Arguments of either ſide, ſhould determine;
+what they determined, to be ratifyed: So as at laſt, diſſentions laid
+aſide, peace might be re<g ref="char:EOLhyphen"/>ſtored to the Church. But as for thoſe Tearms,
+<hi>Rotman</hi> and his fellowes would none of them. When therefore they
+re<g ref="char:EOLhyphen"/>fuſed Publique Teſt, they began to fall <pb n="14" facs="tcp:107072:15"/>into a
+Generall contempt. To waſh off which ſtaine they find another more
+com<g ref="char:EOLhyphen"/>pendious Courſe.</p>
+         </div>
+         <div n="6" type="chapter">
+            <head>CHAP. VI.</head>
+            <argument>
+               <p> Popular Tumults, And open Inſur<g ref="char:EOLhyphen"/>rection by Anabaptiſts. A
+skir<g ref="char:EOLhyphen"/>miſh and agreement.</p>
+            </argument>
+            <p>ONe of them, like a man inſpired, runs through the City and cryes
+out, <hi>Repent and be baptized or elſe the wrath of God will overwhelme
+you.</hi> Here firſt be<g ref="char:EOLhyphen"/>gan the vulgar Tumults. And all that were baptized
+againe cryed out as he, and in his Poſture. Many enſnared by their owne
+ſimplicity (men otherwiſe Honeſt) for that they feared the wrath of God,
+whereof theſe made ſuch noyſe, come in unto them, and others too, to
+ſave their ſtakes. For the truth is, the Anabaptiſts dealing courſly
+with their Adverſaries did fairly turne them out of all. This was about
+Decembers end. And now againe theſe peepe out of their holes, of whom I
+ſpake before. Who with an outcry hurrying to the market place together, 
+<pb n="15" facs="tcp:107072:15"/>
+               <hi>command all not bapts'zd to be put to death as Pagans
+and ungodly wretches.</hi> Then ſeiz'd they on the Magazine and Hall, laying
+violent hands on many. The others to defend themſelves and theirs, make good
+another Certaine Place with<g ref="char:EOLhyphen"/>in the City, by nature fortifyed, ſurpri<g ref="char:EOLhyphen"/>zing
+very many of theirs. This skirmiſh againſt the Anabaptiſts that kept the
+Hall and fenced it round held, till on giving Mutuall Hoſtages, They came to
+Termes, where by it was provided, That every man ſhould keepe his owne
+Reli<g ref="char:EOLhyphen"/>gion goe home and live at peace.</p>
+         </div>
+         <div n="7" type="chapter">
+            <head>CHAP. VII.</head>
+            <argument>
+               <p> Anabaptiſts ſend to confederates a<g ref="char:EOLhyphen"/>broad. The City fills with
+them. Poedobaptiſts maſtered. Ana<g ref="char:EOLhyphen"/>baptiſts rule. And fire the ſuburbs.
+Baniſh diſſenters. And ſeize their eſtates.</p>
+            </argument>
+            <p>
+               <hi>ROtman</hi> the while; and <hi>Bernard Cnip<g ref="char:EOLhyphen"/>perdoling</hi> the
+very fore-man of that Gangue) although they gave their good <pb n="16" facs="tcp:107072:16"/>word unto this agreement, yet by their ſecret letters to the
+Neighbour Townes encouraged all them of their ſtamp, <hi>That bidding adeiu
+to whatſoever they had, they ſhould Poſt-haſt be with them there; looke
+what they left behind they ſhould enjoy with Tenfold Intereſt.</hi> Such
+ample and magnificent promiſes ſet on their way to <hi>Munſter</hi> both
+men and women in the greateſt Number, with certaine expectation of enjoying
+greater matters; The poorer ſort eſpecially that had not to live at home.
+The Townes-men, cheifly thoſe of faire Eſtates, perceiving how the City
+fild with ſtrangers, with as much Covenience as they Could, withdrew
+themſelves, lea<g ref="char:EOLhyphen"/>ving behind, the Anabaptiſts and the multitude. This was
+about Shrove, Tueſ<g ref="char:EOLhyphen"/>day in the moneth of February, 1534. When the other Party
+had beene weake<g ref="char:EOLhyphen"/>ned thus, The Anabaptiſts forme a new Senate, of their owne
+Creatures all; and Create <hi>(a)</hi> Conſuls alſo,<note place="margin">Like
+our Mayors; but they were too.</note> Cnipperdo<g ref="char:EOLhyphen"/>ling for one. Within few dayes
+they ſet upon <hi>St</hi> Maurice Church in the ſuburbs and fire both it
+and all the building neare it. Then rob they all the Chnrches and tare downe
+the inſide of the Cheifeſt. <pb n="17" facs="tcp:107072:16"/>By and by they run on
+heapes through all the ſtreets, and firſt they cry, <hi>Repent,</hi> but
+quickly after, <hi>depart from hence imme<g ref="char:EOLhyphen"/>diately ye wicked ones, except you
+meane to lay your lives at ſtake.</hi> Withall they are ſtrait in Armes
+together, and whoſoever were not of their ſect, without more a<g ref="char:EOLhyphen"/>doe, they
+thruſt them out of towne without reſpect to either ſex or Age. So as
+indeed ſome women great with Child miſcarried in this tumultuous and
+precipitant baniſhment. Immediatly they ſeize on their Eſtates they had
+turned out. And notwithſtanding this befell the day before the Biſhop did
+beſeige the City, yet of the multitude that were faine to leave it, ſome
+falling into the Biſhops hands, were reckoned enemies: others in danger of
+their lives, and among the reſt, two Preachers of the Goſpell. He of whom I
+ſpake before <hi>Peter Wir<g ref="char:EOLhyphen"/>tem</hi> being himſelfe in danger, was ſaved
+by the Mediation of the <hi>Lantgrave.</hi> Others of the Townſmen that were
+good men, troubled at this to ſee that if they left the City they were forced
+to run on preſent danger abroad, upon compulſion in a manner and againſt
+their will, did ſtay behind.</p>
+         </div>
+         <div n="8" type="chapter">
+            <pb n="18" facs="tcp:107072:17"/>
+            <head>CHAP. VIII.</head>
+            <argument>
+               <p> Community commanded. All bookes burnt but the Bible. A Smith
+jeſts on them, and payes dearly for it.</p>
+            </argument>
+            <p>ABout this time the <hi>fore-man</hi> of the <hi>Prophets</hi> (for
+thats the Title they do arrogate unto themſelves) <hi>John Matthew</hi> gave
+command that whatſoever Gold, ſilver, Moveables any man enjoyed, on paine
+of death he ſhould bring forth among them. And for this Uſe there was a
+publique houſe appointed. The people much amazed with the rigor of this
+Order, Obey'd. Nor was it ſafe for any man to fayle, or to defraud them of
+any part. For there were two Girles poſ<g ref="char:EOLhyphen"/>ſes'd with Spirits of Divination,
+that di<g ref="char:EOLhyphen"/>ſcovered whatſoever fraud had beene committed. Nor did they onely
+bring their owne Goods thus together, but theirs alſo whom they had turned
+out of Towne, they did convert to their owne uſe. This done, the ſelfe
+ſame Prophet did command that no man henceforth keepe any other booke about 
+<pb n="19" facs="tcp:107072:17"/>him but the holy Bible: all others muſt be brought forth
+and aboliſhed. This was commanded, as he ſaid, from heaven. And thereupon
+Books in great Number hea<g ref="char:EOLhyphen"/>p'd together were all conſumed with fire. it
+happened that a ſmith about that time, one <hi>Hubert Truteling</hi> had
+broake ſome Jeſt upon the (ſelfe-named) Prophets, which being knowne they
+call the peo<g ref="char:EOLhyphen"/>ple and command the Souldiers to be preſent: Inſtantly they
+accuſe the fellow, and ſentence him to die. The people were exceedingly
+aſtoniſhed at the buſi<g ref="char:EOLhyphen"/>neſſe: But the fore-prophet (whom I nam'd
+before) layes violent hands on the poore wretch, and with a ſpeare ſtabd
+him lying flat on the ground: yet without Mortall wound, although he fell upon
+him with a mighty force. Then he Commands him to be carried to another Place;
+where ſnaching up a Gun, from a young man by him, with a Bullet ſhoots him
+through, lying all along. The fellow for all this not dying preſent<g ref="char:EOLhyphen"/>ly he
+tells them, <hi>that it was reveald from heaven unto him, that his time to dye
+was not yet come, and God had ſhewne him mercy.</hi> But a few dayes after
+the poore man ends his life. That being knowne <pb n="20" facs="tcp:107072:18"/>the Prophet,
+all in haſt, catcheth up a long-ſized ſpeare, and running madly through
+the City, <hi>Cryes out that God the Father had commanded him to beat off the
+enemy from the City.</hi> Approaching to the Campe a certaine Souldier that
+en<g ref="char:EOLhyphen"/>gaged him, ran him through. And though the error of his predictions was this
+other time diſcovered alſo, yet had his Comrade Prophets ſo befool'd the
+men and put ſo faire a dreſſe upon the buſineſſe, to the vulgar,
+that he was much deſired, and ſome Calamity preſag'd impendent on them
+from the loſſe of ſuch a <hi>Worthy perſonage.</hi> But <hi>John at
+Leiden</hi> next Prophet to him bad them take heart, t'was long agoe reveal'd
+to him that he ſhould come to ſuch an end. And for the wife he left, ſhe
+ſhould be his. Within two daies of Eaſter they run into the Churches and
+ſet all the Bells in every Place a ring<g ref="char:EOLhyphen"/>ing. Shortly after
+<hi>Cnipperdoling</hi> prophe<g ref="char:EOLhyphen"/>ſyeth, <hi>That thoſe which were of the
+higheſt forme muſt be tumbled downe, and others from the ba<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt bench and very dunghill be
+exalted.</hi> Then bids he them demoliſh all the Churches, proteſting
+ſeriouſly that he had ſuch command from God. They all are at his beck,
+and with their utmoſt <pb n="21" facs="tcp:107072:18"/>diligence put in execution the
+Command (he cals) from heaven. At the ſelfe ſame time almoſt <hi>Iohn at
+Leiden</hi> gives the ſword to <hi>Cnipperdoling</hi> and makes him
+<hi>Hang<g ref="char:EOLhyphen"/>man</hi> for ſuch was Gods pleaſure that <hi>He, before</hi> who
+bare the greateſt office and was <hi>Confull, now</hi> take the meaneſt,
+and be <hi>Hangman. He,</hi> far from unwilling, with thanks accepts the office
+put upon him.</p>
+         </div>
+         <div n="9" type="chapter">
+            <head>CAP. IX.</head>
+            <argument>
+               <p> The Biſhop craves aid of neigh<g ref="char:EOLhyphen"/>bour Princes, and obtaines it.
+The City ſtormed. But Without ſucceſse.</p>
+            </argument>
+            <p>WHen now the Biſhop for ſome Moneths had beene himſelfe at all
+the Charge of war againſt them, <hi>Herman Archbiſhop of Colen,</hi> and
+<hi>John Prince of Clev<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſent
+ayd of money, armes, and ſome troopes of horſe and foote. The Archbiſhop
+of <hi>Colen</hi> goes alſo to the Campe himſelfe to give advice. And not
+long after they aſſault the City in certaine Places. But when no hopes 
+<pb n="22" facs="tcp:107072:19"/>remained of taking it by ſtorme, they built ſeven
+fortreſſes to ſtop all Paſ<g ref="char:EOLhyphen"/>ſage, and Place ſome Colours of foote,
+and troops of horſe in every of them for winter quarters. And to the end the
+ſiege and warre might be carryed on, which equally concern'd them all, the
+<hi>Biſhop</hi> of <hi>Munſter</hi> craves ayde of all the <hi>Princes</hi>
+and the Cities in the <hi>Province</hi> of <hi>Rhene,</hi> as being next unto
+him. For this, there was a meeting called at <hi>Con<g ref="char:EOLhyphen"/>fluence,</hi> about the
+13th of <hi>December</hi> 1534. For Germany in the whole hath ſix
+diviſions, <hi>Franconia, Bononia, Suevia, Saxony,</hi> the tract of
+<hi>Rhene,</hi> and <hi>Burgundy.</hi> Within theſe limits of auncient
+courſe were reckoned all the Princes and the Cities one or other at Imperiall
+dyets. At this day is diviſion of the upper and the lower <hi>Saxony,</hi>
+then alſo is there lower <hi>Germany, Weſtphalia</hi> and
+<hi>Auſtria,</hi> ſo that at preſent tenne Countries doe make up the
+Empire.</p>
+         </div>
+         <div n="10" type="chapter">
+            <pb n="23" facs="tcp:107072:19"/>
+            <head>CAP. X.</head>
+            <argument>
+               <p> Leiden dreames three-dayes. Creates Twelve Governours. Propoſes
+new Doctrins. Leading Anabap<g ref="char:EOLhyphen"/>tiſts ſeized by ſome well affected. Who
+looſe their lives for it.</p>
+            </argument>
+            <p>AFter the fruitles ſtorme <hi>John a-Leiden</hi> takes him to his
+reſt, and falls a drea<g ref="char:EOLhyphen"/>ming three whole dayes ſpace together. When he
+awakes, ſpeaks not a word, but makes ſignes for paper, and therein
+Aſſignes twelve men (ſome well deſcen<g ref="char:EOLhyphen"/>ded in the Number) to be over all
+affaires, and as in Iſraell, <hi>ſteere</hi> the whole. For this He
+<hi>tells them is the heavenly</hi> Fathers <hi>pleaſure.</hi> And now, when
+by the twelve a ſtirrup thus was made him to the King<g ref="char:EOLhyphen"/>dome, he falls
+propoſing certaine Tenets to the Preachers, and requires their con<g ref="char:EOLhyphen"/>futation
+of them by the Scriptures: where if they fayld, he would referre them to the
+People for their approbation, and eſtabliſhment. Of thoſe, this was the 
+<pb n="24" facs="tcp:107072:20"/>Creame, <hi>That men were not obliged to one onely wife,
+but if they pleaſed might marry many:</hi> which when their Teachers did
+oppoſe, He calls them with the Twelve unto the hall. At their appea<g ref="char:EOLhyphen"/>rance
+there, he puts off his Cloake and threw it with a new Teſtament on the
+ground; by thoſe as ſignes he ſweares, <hi>The Doctrine he had broached,
+was revea<g ref="char:EOLhyphen"/>led from heaven to him,</hi> &amp; therefore ſharply threatens
+them, with the frownes of God upon them, if they do not bid it welcome.</p>
+            <p>At laſt <hi>they jumpe,</hi> and it was a full three daies worke
+for the Preachers Sermons to talke of Marriage. He quickly gets him three
+wives, one, the great Prophets <hi>John Mathew,</hi> of whom I ſpeake before.
+This leading caſe others were not long behind So as t'was reckoned for a
+credit to be often married. But now ſome Citizens that could by no meanes
+brooke this trade, by a token given through the City get all that loved the
+Goſpell to a meeting at the Hall. Then they lay hold upon the <hi>Prophet.
+Cnipperdoling,</hi> and all the <hi>Teachers.</hi> The Rable at firſt notice
+of it run to Armes, reſcue the Priſoners, and with cruell tor<g ref="char:EOLhyphen"/>ments ſlew
+ſome fifty: for tying ſome <pb n="25" facs="tcp:107072:20"/>to Trees and ſtakes they
+ſhot them through: The ring-leading Prophet making acclamation, <hi>That he
+that would do God good ſervice ſhould diſcharge upon them firſt.</hi>
+Others had other ends.</p>
+         </div>
+         <div n="11" type="chapter">
+            <head>CAP. XI.</head>
+            <argument>
+               <p> A new prophet declares that John a-Leiden muſt be King. Tis
+done. Cnipperdoling playing Rex is put in priſon.</p>
+            </argument>
+            <p>ABout the 24 fourth of Juneup ſtarts a new Prophet by trade a
+Goldſmith. He having cal'd the People to the Hall, declare it as the will and
+pleaſure of the heavenly father, <hi>that John a-Leiden ſhould be Lord of
+all the world, and that he mar<g ref="char:EOLhyphen"/>ching forthwith a mighty Army ſhould deſtroy
+all Kings and Princes, one or other, ſhewing mercy to the People only, that
+is, to thoſe that do love righteouſneſſe: and that he ſhould
+poſſeſſe the ſeat of his father David, untill the Father do require
+the Kingdome of him, for the ungodly troden under foote, the Saints muſt
+raigne, even in this <pb n="26" facs="tcp:107072:21"/>life.</hi> This ſpoken openly,
+<hi>John a-Leiden</hi> inſta<g ref="char:cmbAbbrStroke">̄</g>t<g ref="char:EOLhyphen"/>ly faling on his knees and lifting up his
+hands to heaven cries out, <hi>Men and bre<g ref="char:EOLhyphen"/>thren, I have beene no ſtranger to
+this buſineſſe, for theſe many daies, and yet I had no mind to
+publiſh it, but now, to put it out of doubt, the Father hath made uſe of
+another Meſſenger.</hi> Thus being then made King he forthwith Nulls the
+Twelve, and as the Regall mode is, <hi>Creates him Nobles, Commands two
+Crownes, a Scabbard, Chaine, &amp; Scepter with other ſuch like Badges of
+ſtate to be provided for him</hi> of the pureſt Gold. Then he appointed
+certaine daies of hearing in all cauſes that required his Cognizance. As
+often as he came in Publique he was attended with his offi<g ref="char:EOLhyphen"/>cers and nobles of
+his Court. Next to him followed too young men mounted. He on the right with a
+Crowne and Bible, the other with a naked ſword. In like ſtate was his
+Principall wife attended, for he had many at that time: In the hall there was
+erected a lofty throne of ſtate, covered with Cloth of Gold. The Complaints
+and ſuits before him, for the moſt part were of marrying or divorcing, a
+thing now thredbare with them. Inſomuch that <pb n="27" facs="tcp:107072:21"/>ſome who
+many yeares had lived toge<g ref="char:EOLhyphen"/>ther were now firſt put aſunder. But on a time
+the People ſtanding very thick and crowded in the hall to heare, Loe,
+<hi>Cnipperdoling</hi> leapeth up and Scrabling by all foure on the Crowd, he
+wanders to and fro upon their Tops, and gaping wide mouthed on them, ſaith to
+them ſe<g ref="char:EOLhyphen"/>verally, <hi>The Father hath Sanctified thee, receive the Holy
+Ghoſt.</hi> Another day leading a dance before the King, quoth he, <hi>thus
+my litle whore and I ſometimes are want to do: But now the Father bad me do
+the ſame before the King.</hi> And when he never would have done, the King
+went forth offended at him. Then he mounts up the throne and <hi>Playes
+Rex</hi> himſelfe. But the King the while returning puls downe my man and
+claps him three dayes up in priſon.</p>
+         </div>
+         <div n="12" type="chapter">
+            <pb n="28" facs="tcp:107072:22"/>
+            <head>CAP. XII.</head>
+            <argument>
+               <p> A booke Printed for the Raigne of Saints. And confuted.</p>
+            </argument>
+            <p>THe ſiege continuing they write a booke&amp;publiſh it, their
+Title is <hi>The Re<g ref="char:EOLhyphen"/>ſtitution.</hi> Herein, with other ſtuffe, they broach:
+<hi>That Chriſts kingdome ſhall be ſuch before the laſt day of
+Judgment, that all the ungodly every where extinct, the Godly and the Elect
+ſhall raigne.</hi> They tell us alſo, that the people may turne off their
+Magiſtrates, <hi>and though the Apoſtles were not commanded to take the
+Civill power into their hands, yet the pre<g ref="char:EOLhyphen"/>ſent Miniſters of the Church
+ought to clayme title to the Sword, and to enforce a new forme of Government.
+Moreover, that none but true Chriſtians might be ſuffered in the Church,
+and that none could be ſaved except they would relinquish all propriety in
+the Eſtate they had, and make it common. For</hi> Luther <hi>and the</hi>
+Pope <hi>of</hi> Rome <hi>they were both</hi> falſe Prophets, <hi>yet Luther
+was the worſer of the twaine. And as to</hi> unbe<g ref="char:EOLhyphen"/>lievers <pb n="29" facs="tcp:107072:22"/>Marriage, <hi>tis polluted and impure, nor to be reckoned</hi> (ſay
+they) <hi>than for whoredome and adultery.</hi> Thoſe their opinions were
+oppugned chiefely by <hi>Melancthon, Juſtus, Menius,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>rbanus
+Rhegius</hi> whoſe writings upon this Subject are ex<g ref="char:EOLhyphen"/>tant very cleere and
+full.</p>
+         </div>
+         <div n="13" type="chapter">
+            <head>CAP. XIII.</head>
+            <argument>
+               <p> New Apoſtles. Their Co<g ref="char:EOLhyphen"/>miſsion.</p>
+            </argument>
+            <p>A few weekes after the new-ſprung Prophet Spoken of before, by
+Sound of Trumpet throughout all the Streets proclaimes <hi>that all ſhould
+make appea<g ref="char:EOLhyphen"/>rance in their Armes at the Cathedrall-Porch,</hi> becauſe <hi>the
+enemy muſt be ſent pack<g ref="char:EOLhyphen"/>ing from the Citie.</hi> At their coming thither
+they find a ſupper ready. Being bad about 4000 ſit downe unto it: after,
+they ſup that were the while upon the guard about 1000. The <hi>King</hi> and
+<hi>Queene</hi> with their houſhold Servants wait. Having eaten and ſupper
+almoſt ended, the King himſelfe reaching bread to every one ſaith,
+<hi>Take eat ſhew forth the <pb n="30" facs="tcp:107072:23"/>death of the Lord:</hi> The
+Queene holding out the cup ſaith, <hi>Drink, and ſhew forth the death of
+the Lord.</hi> This done the fore<g ref="char:EOLhyphen"/>ſaid Prophet ſteps up into a pulpit,
+askes them whether they would obey the word of God: All ſaying, <hi>yea,</hi>
+quoth he, <hi>It is the fathers command that Teachers of the word ſhould be
+ſent forth, about eight and twenty, who going into the foure quarters of the
+world may preach the doctrine famous in this City.</hi> Then names he them,
+directs the way that every one ſhould take. Six were diſpatched to
+<hi>Oſenbruge,</hi> as many unto <hi>Warendorſe,</hi> eight unto
+<hi>Suſat,</hi> the like number unto <hi>Cosfield.</hi> Afterwards the King
+and Queene ſit downe to ſupper with their other ſervants, and thoſe
+appointed for the progreſſe. At ſupper the king ſtarts up: ſayes,
+that he hath a litle buſineſſe the father hath commanded. It chanced
+there was a certaine Souldier taken him, as another <hi>Judas,</hi> the King
+accuſed of treaſon and himſelfe beheads him. This done he returned to
+ſupper, and merily brags of that his brave exploit. Having ſup'd the
+foreſaid 28 are ſent away, within night a litle, and beſides proviſions
+for <pb n="31" facs="tcp:107072:23"/>their journy every man hath his peece of Gold which in
+the places where their doctrine is refuſed they are bid to leave behind them,
+as a token of their future deſtruction and eternall ruine, for con<g ref="char:EOLhyphen"/>tempt of
+peace, and ſuch a ſaving doctrine.</p>
+         </div>
+         <div n="5" type="chapter">
+            <head>CAP. V.</head>
+            <argument>
+               <p> The Apoſtles behaviour. And enter<g ref="char:EOLhyphen"/>tainement where they
+come.</p>
+            </argument>
+            <p>WHen they departing came into their ſeverall places, with a loud
+out cry through the ſtreets. <hi>That men repent, or looke for ſuddaine
+ruine:</hi> They ſpread their garments on the ground be<g ref="char:EOLhyphen"/>fore the
+magiſtrate, and threw the Gol<g ref="char:EOLhyphen"/>den peeces that they had receiv'd thereon,
+<hi>aſſuring them that the father ſent them to offer peace unto them,
+which if they would imbrace, they muſt make common what they had, but if they
+did refuſe, then hereby, as an earneſt, they did proteſt againſt this
+wickedneſſe of theirs and ingratitude. For now the time is come whereof all
+the <pb n="32" facs="tcp:107072:24"/>Prophets ſpake, when through all the world God will
+have righteouſneſſe be embraced. And when the</hi> King <hi>in doing of
+this dutie ſhall bring the buſineſſe unto ſuch a paſſe that
+righ<g ref="char:EOLhyphen"/>teouſneſſe raigne in every place, then ſhall it be that Chriſt
+deliver up the Kingdome to his father.</hi> Talking at this rate they are laid
+hold off, and freindly firſt, then on the rack examin'd of their faith and
+life, and of the Cities Strength. They anſwer, <hi>that only they
+themſelves held the true Doctrine and they would beare witneſſe to it at
+the perill of their lives. For from the very Apoſtles time neither had the
+word of God beene truly taught, nor any righte<g ref="char:EOLhyphen"/>ouſneſſe ſet a foot.
+There are in all foure Prophets, and no more, two righteous ones,</hi> David
+<hi>and</hi> John a-Leiden, <hi>two wicked, the</hi> Pope <hi>and</hi> Luther,
+<hi>and</hi> this the worſer of the twaine. Being asked why againſt their
+promiſe given they baniſhed honeſt men the City, ſeizing on their goods
+and wives; and Children, and by what place of Scripture could they prove and
+maintaine that righteouſneſſe of theirs. They ſay, this is the time
+Chriſt ſpake of, <hi>that the meeke ſhould inherit the earth, and in this
+manner heretofore God gave the Egyptians goods unto the Iſralites.</hi>
+Speaking after<g ref="char:EOLhyphen"/>wards <pb n="33" facs="tcp:107072:24"/>of the forces and proviſions of the
+citie, they confeſſe, <hi>moſt men have above five wives and that they
+looked for forces out of</hi> Friezland <hi>and from</hi> Holland, <hi>as
+ſoone as ere they come, the King will march forth with all his Army and
+ſubdue the world unto himſelfes putting to death the Kings for not
+adminiſtring Juſtice.</hi> Having beene examined, when they would bide by
+what they were, nor acknowledge any Magiſtrate beſides their King, Death
+was their doome, yet one of them eſca<g ref="char:EOLhyphen"/>ped.</p>
+         </div>
+         <div n="15" type="chapter">
+            <head>CAP. XV.</head>
+            <argument>
+               <p> The King makes Dukes, and Halbaltiers. Their Encou<g ref="char:EOLhyphen"/>ragement.</p>
+            </argument>
+            <p>BY this, the City was ſo cloſe begirt that there was no way of
+getting out for any: the Citizens therefore fearing famine and troubled at the
+danger they <pb n="34" facs="tcp:107072:25"/>were in, had thoughts to apprehend the King and
+deliver him bound unto the Biſhop. The King, that by ſome tokens Smelt the
+buſineſſe out, makes choice of twelve out of all the heap, that he judged
+moſt faithfull, and calls them <hi>Dukes,</hi> aſſig<g ref="char:EOLhyphen"/>ning unto every of
+them ſome part of the City to defend: and alſo yeomen of the Guard to
+prevent commotions. Then did he promiſe all the people that at Eaſter they
+ſhould be quit both of Siege and want together. But for the <hi>Dukes</hi> he
+choſe, far greater matters are aſſured to them: they ſhall be
+<hi>Lords</hi> and <hi>Ma<g ref="char:EOLhyphen"/>ſters</hi> (as he tells them) yea and particu<g ref="char:EOLhyphen"/>larly
+layes out, what <hi>Province, Caſtles,</hi> and <hi>Mannors</hi> each
+ſhould have. None but the <hi>Lantgrave</hi> ſhould be ſpared, he ſaid;
+becauſe he hoped at laſt <hi>he</hi> would ſtrike in with him.</p>
+         </div>
+         <div n="16" type="chapter">
+            <pb n="35" facs="tcp:107072:25"/>
+            <head>CHAP. XVI.</head>
+            <argument>
+               <p> More Princes meet. The beſie<g ref="char:EOLhyphen"/>ged admoniſhed.</p>
+            </argument>
+            <p>ABove we told you of a meeting called at <hi>Confluence</hi> in the
+month December, of thoſe ſtates that were with<g ref="char:EOLhyphen"/>in the Province of
+<hi>Rhene,</hi> with them aſſociated of his owne accord <hi>John Fre<g ref="char:EOLhyphen"/>derick
+Prince Elector</hi> of <hi>Saxony.</hi> The buſineſſe duly weighed in
+that aſſembly, ſpeedy aydes are ordered to the <hi>Biſhop,</hi> of
+horſe three-hundred, and three thou<g ref="char:EOLhyphen"/>ſand foot for ſix months ſpace.
+Over theſe forces and the whole warre <hi>Wirich</hi> Earle of
+<hi>Oberſtene</hi> is made Generall. 'Tis ordered alſo that all other
+ſtates within the Empire ſhall be ſollicited for aſſi<g ref="char:EOLhyphen"/>ſtance. And
+becauſe <hi>Caeſar</hi> was in Spaine that King <hi>Ferdinand</hi> be
+deſired againſt Aprill next for this to call a <hi>Dyet.</hi> Then ſent
+they letters ſharply <hi>to admoniſh the beſieged to leave off their
+courſe, which is ſo both diſhoneſt and ungodly as nothing more: except
+they yeild and ſubmit them to their <pb n="36" facs="tcp:107072:26"/>lawfull Magiſtrate,
+they tell them plainly that the whole Empire will not be wanting to
+aſſiſt the</hi> Biſhop. This was about Decembers end. They anſwere
+the 13th day of January 1535. with words enough, but litle to the purpoſe.
+Yet ſo as too commend and juſtifie their under<g ref="char:EOLhyphen"/>takement, but as to what had
+beene ob<g ref="char:EOLhyphen"/>jected about the King they coyned, they are quite dumb to that.</p>
+         </div>
+         <div n="17" type="chapter">
+            <head>CAP. XVII.</head>
+            <argument>
+               <p> Anabaptiſts write to the Lantgrave. The Anſwers. They Re<g ref="char:EOLhyphen"/>ply
+&amp;c.</p>
+            </argument>
+            <p>BUt in their private letters to the <hi>Lantgrave</hi> they would
+faine excuſe themſelves, talking much about <hi>the ruine and deſtruction
+of all the wicked, about the liberty and dominion of the godly in this
+life,</hi> and herewith ſend him the booke of <hi>Re<g ref="char:EOLhyphen"/>ſtitution,</hi> that I
+ſpake of. They admoniſh him alſo to <hi>repent and not like other
+Prin<g ref="char:EOLhyphen"/>ces, wicked men, wage warre againſt <pb n="37" facs="tcp:107072:26"/>them
+harmleſſe ſoules, and Gods people.</hi> The <hi>Lantgrave</hi> having
+read the <hi>Letter</hi> and the <hi>booke</hi> notes what he did diſlike
+therein, and orders ſome of his to anſwer. And ſince they very briefely
+but ſomewhat blindly wrote, their king was not ſo much of theirs, as of
+Gods appointment. He askes them <hi>why they did not ſhew thoſe Scriptures
+whence they thought this courſe was lawfull, and why they had not firſt
+confirmed it by ſignes and wonders. For of</hi> Chriſts <hi>coming</hi> God
+<hi>by all his</hi> Prophets <hi>long before foretold ſo evidently that not
+only of what tribe or ſtock, but alſo when and where he ſhould be borne
+was cleerely mani<g ref="char:EOLhyphen"/>feſt.</hi> Twas alſo their deſire to have a hea<g ref="char:EOLhyphen"/>ring of
+their cauſe. Hereto the <hi>Lant<g ref="char:EOLhyphen"/>grave</hi> anſweres. <hi>Now there was no
+roome for that ſince they had uſurped authority and were the Authors of
+ſo much miſchiefe. For all men ſee whereat they ayme, even to the
+overthrowing lawes and common-wealths. And as their courſe is palpably wicked
+and villanous, ſo alſo the deſire of having cogni<g ref="char:EOLhyphen"/>zance taken of their
+Cauſe is faigned and counterfeit. That for his part he had ſent them
+faithfull miniſters of the Church, by whom he is ſure, they have beene well
+inſtru<g ref="char:EOLhyphen"/>cted. But whereas by their naſty doctrine <pb n="38" facs="tcp:107072:27"/>they</hi> revolt from their Magiſtrate, Seize on other mens
+eſtates, take many wives, chuſe a new King, deny Chriſt to have taken
+humane nature of the Virgin Mary, aſſert free will, force men to make all
+common, deny forgiveneſſe to a lapſed ſinner. <hi>Theſe all are both
+againſt the lawes of God and men.</hi> This anſwer brought them, they fall
+againe to ſcribling, and ſend withall a booke compoſed in the vulgar
+ſpeech, <hi>Of Scripture Myſteries.</hi> In their Epiſtle, they put new
+trimming on their cauſe, and reinforce their principles: but in the booke we
+ſpeake of they divide the whole worlds age, from firſt to laſt into three
+periods, &amp; the firſt (they tell us) <hi>from</hi> Adam <hi>unto</hi> Noah
+<hi>periſhed by a floud, the other wherein we are ſhall by fire, the third
+ſhall be new all over,</hi> wherein reigneth righte<g ref="char:EOLhyphen"/>ouſneſſe. <hi>But
+before this laſt appeare, the preſent muſt be changed with fire. Yet
+that's not like to be till Antichriſt be revealed, and his power quite
+ſubdued. Then ſhall it be that the decayed throne of</hi> David <hi>ſhall
+be erected, and</hi> Chriſt obtaine his King<g ref="char:EOLhyphen"/>dome in the earth, <hi>and all
+the writings of the</hi> Prophets <hi>he fulfilled. For the preſent world is
+as the age of</hi> Eſau, <hi>for both herein is juſtice ſilenced, and the
+godly are afflicted. But <pb n="39" facs="tcp:107072:27"/>as from</hi> Babylons
+<hi>captivity, ſo alſo now from ſo great miſeries the time of</hi>
+deliverance and reſtoring <hi>is at hand: and the wicked<g ref="char:EOLhyphen"/>neſſe of the
+wicked ſhall be abundantly re<g ref="char:EOLhyphen"/>compenced to them, as is ſignified in
+the</hi> Revelation. <hi>But this</hi> reſtoring <hi>ſhall precede the
+world to come, that all ungodly men trod under foot, a ſeat and habitation
+may be prepared for righteouſneſſe.</hi> The <hi>Lantgrave</hi> having
+received their booke commends it to ſome Miniſters of the Church with him
+to draw up the confuta<g ref="char:EOLhyphen"/>tion of it.</p>
+         </div>
+         <div n="18" type="chapter">
+            <head>CAP. XVIII.</head>
+            <argument>
+               <p> Free Cities meet at Eſling. The Reſult.</p>
+            </argument>
+            <p>THe decree that was made at <hi>Conflu<g ref="char:EOLhyphen"/>ence</hi> ſome few cities
+that were preſent utterly diſliked, and ſay they will ſend no<g ref="char:EOLhyphen"/>tice home
+againſt it. After, all the other cities of the <hi>Empire</hi> meete at
+<hi>Eſling:</hi> and there they come to this Concluſion, <hi>that they who
+met before at</hi> Confluence <hi>had not to do to impoſe any charge on them:
+for that therein there ought to be the</hi> Authority <pb n="40" facs="tcp:107072:28"/>
+               <hi>and</hi> Conſent <hi>of</hi> Caeſar <hi>and all the ſtates.
+Therefore they reject that Order made, and promiſe mutuall helpe in caſe
+that any danger be incur'd in that regard by any of them. But whatſoever
+ſhall be duly reſolved upon for publique good in publique</hi> Diets <hi>of
+the</hi> Empire, <hi>therein they give aſſurance they will do their
+duty.</hi>
+            </p>
+         </div>
+         <div n="19" type="chapter">
+            <head>CAP. XIX.</head>
+            <argument>
+               <p> City wants proviſion. One of the Queenes pitties the poore. The
+King beheads her for it. And promiſes largely to the people, but payes
+poorely.</p>
+            </argument>
+            <p>BUt now proviſions growing ſo ſcarce and deare throughout the
+citie in the moneth of <hi>February,</hi> that there was no hopes but ſome
+muſt needs be <hi>hunger-ſtarved:</hi> one of the <hi>Queenes</hi>
+commiſera<g ref="char:EOLhyphen"/>ting the peoples caſe did chance to ſay unto the others,
+<hi>that ſhe did not think it was the will of God, to have the people thus
+conſumed with famine.</hi> The <hi>King,</hi> 
+               <pb n="41" facs="tcp:107072:28"/>whoſe
+<hi>Larder</hi> was well fraught not only for <hi>neceſſity</hi> but even
+to <hi>luxury,</hi> hearing hereof brings her and all the other with her to the
+Hall. Where having bade her fall upon her knees, <hi>he takes off her
+head,</hi> and being dead, <hi>brands her for a whore.</hi> Upon this deed, the
+other chaunt his praiſe and <hi>thanke the heavenly father.</hi> The king
+then leades a round, and perſwades the people that had nothing left but
+<hi>bread</hi> and <hi>ſalt</hi> to <hi>dance</hi> and to be <hi>merry.</hi>
+But when <hi>Eaſter</hi> came and no deliverance did appeare: The
+<hi>King</hi> that had beene <hi>Laviſh of his promiſe,</hi> to ſalve the
+buſineſſe feignes himſelfe ſick for ſix dayes ſpace, at laſt
+comes forth into the Hall, and tells them, <hi>He had ſate upon a blinde
+Aſſe, and that the father had laid the ſins of all the people on his
+back, and there<g ref="char:EOLhyphen"/>fore they were cleane all over, nor needed any other expiation.
+This was that deliverance which he promiſed, wherewith they ought to be
+content.</hi>
+            </p>
+         </div>
+         <div n="20" type="chapter">
+            <pb n="42" facs="tcp:107072:29"/>
+            <head>CAP. XX.</head>
+            <argument>
+               <p>
+                  <hi> Luther</hi> writes againſt the Anabaptiſts.</p>
+            </argument>
+            <p>
+               <hi>L<g ref="char:V">Ʋ</g>ther,</hi> amongſt other things he put forth at this time
+in the country <hi>Language, Alas! quoth he, what or how ſhall I complaine
+and bemoane thoſe wretched creatures? In truth the thing it ſelfe doth
+ſay that</hi> Devils <hi>dwell</hi> in heapes <hi>among them. But for our
+parts we have all reaſon in the world highly to advance Gods bottomleſſe
+mercy. For notwithſtanding</hi> for contem<g ref="char:EOLhyphen"/>ning of the Goſpell, and
+reproaching of the name of God, <hi>and</hi> powring forth the blood of godly
+men, <hi>Germany deſer<g ref="char:EOLhyphen"/>veth ſore affliction at the hands of God: yet has he
+curbed hitherto</hi> Sathans <hi>rage and fu<g ref="char:EOLhyphen"/>ry, and doth not lay the reine
+upon his neck to let him rant it at his pleaſure with us; but is a
+gentle</hi> Monitor, <hi>and by this</hi> Munſter <hi>tragedy (far from a
+cunning peece) calls us to amendment. For ſhould not God bridle and check him
+in, I make no queſtion but</hi> that moſt ſubtill ſpirit, <hi>and</hi>
+ſuch a maſter of his craft <hi>would have managed matters at a far other
+rate. But now ſince God hath <pb n="43" facs="tcp:107072:29"/>maimed him ſorely, he
+ſtormes and rageth, not how himſelfe deſireth, and would have it, but as
+the rope is given him. For that wicked ſpirit which endeavors to ſubvert
+the Chriſtian faith, takes not this courſe to</hi> in<g ref="char:EOLhyphen"/>troduce polygamy,
+<hi>becauſe, ſince all men ſee the curſed baſeneſſe of the
+thing,</hi> he knows <hi>it well enough, they will abhor it. Policy indeed and
+civill government may be this way diſturbed, but</hi> Chriſts kingdome
+<hi>muſt with other tooles and engines be aſſaulted. He that will neatly
+toll a man into deceit and ſnares, muſt not put ſtrait for a king<g ref="char:EOLhyphen"/>dome,
+or dominion, and</hi> play the Tyrant. <hi>For all men do condemne that
+courſe and ſee his aymes. But by ſome hidden meanes as foot-paths come
+unto it. To weare a</hi> ruſty garbe <hi>thats out of faſhion, to</hi>
+ſet ones face to gravity, <hi>to</hi> hang downe the head, <hi>to</hi>
+faſt, <hi>to</hi> touch no money, <hi>to</hi> eat no fleſh, <hi>to</hi>
+abhorre marriage, <hi>to reckon</hi> civill office <hi>or</hi> Magiſtracy
+<hi>as</hi> prophane, <hi>to</hi> refuſe au<g ref="char:EOLhyphen"/>thority, <hi>to</hi> profeſſe
+a ſingular humility of mind: <hi>here lyes the way, and</hi> Method <hi>to
+en<g ref="char:EOLhyphen"/>trap a wiſe man by, and that doth by diſguiſe, and in the darke ſet
+ope the dore to</hi> Sove<g ref="char:EOLhyphen"/>raignty. <hi>But by a</hi> face of braſſe <hi>to
+claime a kingdome, to take as many wives as his luſt inclines him to, this is
+not the ſubtilty of an</hi> 
+               <pb n="44" facs="tcp:107072:30"/>artificiall Divell, <hi>but
+ſome one</hi> newly at the trade. <hi>Or if he be the</hi> Maſter of his
+Craft, <hi>for certaine then God hath ſo tyed his hands that he cannot play
+his game more cunningly. The end whereof no doubt is that we might feare his
+Majeſtie, and be ſtirred up to repentance before he looſe that</hi>
+beaten Souldier <hi>which ſurely will aſſault us much more to our damage.
+For if a</hi> young Gramarian Divell <hi>can make ſuch ſtirs, what will
+they be, when he comes full ſayle againſt us as an</hi> higher graduat,
+<hi>I meane as</hi> Lawyer or Divine? <hi>Such a rude Divell therefore neede
+not much affright us.</hi> 
+               <q>
+                  <hi>And I alſo thinke this</hi> trifling ſtage-play <hi>likes
+not all thoſe in the city, but very many have ſad harts about it who not
+without ſighes and teares waite for Gods deliverance: as ſome yeares
+ſince it proved in the inſurrection of the country men. And would to God
+there was no</hi> craftier Divell <hi>in the world than this of</hi> Munſter.
+<hi>Let God but ſpare his word among us, in truth I am perſwaded that
+ſcarce a man would heede ſuch a</hi> homely ſenſeleſſe ſir.
+<hi>Although indeed when the wrath of God is kindled, there is no errour ſo
+abſurd and graceleſſe but Sathan can per<g ref="char:EOLhyphen"/>ſwade it, as we ſee befell
+in the doctrine for<g ref="char:EOLhyphen"/>ged by</hi>
+                  <note n="(a)" place="margin">This fellow was an
+<hi>Arabian,</hi> of the poſte<g ref="char:EOLhyphen"/>rity of <hi>I<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h<g ref="char:EOLhyphen"/>mael,</hi> borne meanly a out the year of Chriſt <hi>597,</hi>
+his fa<g ref="char:EOLhyphen"/>ther was a <hi>Pagan,</hi> his mother a <hi>Jew,</hi> him<g ref="char:EOLhyphen"/>ſelfe of
+<hi>no religi<g ref="char:EOLhyphen"/>on.</hi> In his youth he ſerved a Merchant and kept his camels.
+His maſter dy<g ref="char:EOLhyphen"/>ing; by the help of <hi>Ma<g ref="char:EOLhyphen"/>gick</hi> he married his Miſtris,
+left very rich. Being a crafty fol<g ref="char:EOLhyphen"/>low and am<g ref="char:EOLhyphen"/>bitious, yet no ſchollar he
+makes himſelfe a <hi>prophet,</hi> pretends revelations, goes up and downe
+amongſt his country men awretched people, never under any good government,
+but either lived at home by robbery, or elſe were ſoulders of fortune
+abroad and ſetting his fancies to their lioeptious humours gets many
+followers. In fits of the falling ſick<g ref="char:EOLhyphen"/>neſſe, frequent with him, he made
+believe the <hi>Angell Gabriel</hi> converſed with him, which his fleſh not
+able to beare fainted un<g ref="char:EOLhyphen"/>der. Another of his taking cheats was that a dove
+being taught to feich corne at his eare paſſed currant for the holy ghoſt
+revea<g ref="char:EOLhyphen"/>ling myſteries to him. Thus getting famous, the <hi>Saracens</hi> his
+countrimen who fought under <hi>Heraclius the Emperor</hi> being denyed their
+pay and cal'd dogs for asking it, revolt, o're whom with litle difficulty
+<hi>Mahomet</hi> is made generall about the yeare <hi>620.</hi> Then to make
+ſure, by the helpe of ſome beretiques and Jewes, he compiles a forme of
+Doctrine, called the <hi>Alcoran,</hi> which is the peoples Bible and ſweares
+the <hi>Angell Gabriel</hi> carried him to heaven and there he learnt it. Some
+other things be taught them. In truth his doctrine is a very monſter patched
+up with ſcraps of <hi>Chriſtianity, Judaiſme</hi> and
+<hi>Paganiſme</hi> cramb'd with non-ſenſe fables and ſelfe
+contradictions. For a taſt of all. <hi>That Chriſt was a great Prophet (not
+God) but Mahomet greater. The Jewes did not crucify him, but one like him.
+Children muſt be circumciſed. Ofterings made in the Temple at</hi> Mecca.
+<hi>Turne thitherwardin all their prayers. God in</hi> Sinay <hi>(as in one
+place, but elſewhere tis in Hieruſalem) gave 1515 precepts.</hi> Noah
+<hi>deſired God to drowne the world for the Idols of</hi> Huden Scbuon Jaguta
+Jannea Naccu <hi>Tis lawfull to have foure wives and as many Concubines as one
+pleaſe. The Angel</hi> Gabriel <hi>flying his wing chanced to touch the Moone
+and darkned it. The day of Judgment Continues 50000 years. After it Death
+ſhall be turned into a ram. Para<g ref="char:EOLhyphen"/>diſe conſiſt in ſenſuall
+pleaſures, faire women &amp;c. Hundreds more as bad</hi> [Magdeb. Cent.
+<hi>7.</hi> c. <hi>15.</hi> See Alcoran in Engliſh.] yet are the Turks by far
+the vaſteſt Empire in the worll, bewitched with this Vanity at this very
+day. Whether Muncer, Leiden and too many of the preſent time with us came not
+out of <hi>Mathomets ſhop</hi> I referre to the Readers owne
+Reſolution.</note> Mahomet.</q> 
+               <hi>For though <pb facs="tcp:107072:30"/>there be not one
+drame of braines in any rag</hi> 
+               <pb facs="tcp:107072:31"/> 
+               <q>
+                  <hi>thereof or the whole peace together:</hi> Yet the light of
+Scripture being out, it ſpread ſo far, and grew to ſuch a pitch as now we
+ſee it.</q> Which, had not <hi>Muncers</hi> counſels and endeavors beene
+cruſhed by God, would have beene the ſame in Germany. For the <hi>leaſt
+ſparke</hi> 
+               <q>that is when God gives leave, Sathan can blow into a <hi>mighty
+flame.</hi>
+               </q> Nor is there any better way to quench this fire than by the
+word of God. For whereas 
+<q>the enemy weareth not corporall armes he cannot be conquered by
+either troops of horſe or any other warlike engines.</q> But our Princes and
+our Biſhops goe another way to worke. 
+<q>They hinder the <hi>Goſpels teaching,</hi> whereby alone the
+minds and hearts of men are healed; and try the while to ſave by
+puniſhments the body from the Divell, but the better part of man his very
+heart and ſoule they let him take. They ſpeed herein juſt as the
+<hi>Jewes</hi> that would extinguiſh <hi>Chriſt</hi> by croſſe and
+puniſhment.</q>
+            </p>
+            <p> 
+               <q>But now as to the things that are ſpoke abroad, and written of
+the men of <hi>Munſter.</hi> I take them to be very truthes.</q> And I am
+confirmed herein by their owne writing lately publiſhed. <pb n="47" facs="tcp:107072:31"/>
+
+               <q>wherein their madneſſe is neatly pain<g ref="char:EOLhyphen"/>ted by themſelves. For
+firſt in <hi>matters of faith,</hi> they teach very fowle abſurdities. And
+of Chriſt, as if he were not fowen Of Mary (as they phraſe it) although
+they do confeſſe that he came of the ſeed of <hi>David.</hi> But they do
+not fully let us know their mind herein.</q> The Devill hatcheth (ſure
+enough) ſome mon<g ref="char:EOLhyphen"/>ſter under it. Tis true this is not darkly hinted by him,
+That the ſeed or fleſh of Mary cannot ſave us. But the attempt 
+<q>is fruitleſſe, for Scripture ſpeakes it, that <hi>Chriſt
+was borne of the Virgin Ma<g ref="char:EOLhyphen"/>ry,</hi> which phraſe all languages do referre to
+a young one that, conceived and for<g ref="char:EOLhyphen"/>med of the mothers fleſh and blood, is
+brought to light.</q>
+            </p>
+            <p> 
+               <q>Then for their cenſure on <hi>former bap<g ref="char:EOLhyphen"/>tiſme</hi> as
+prophane: that alſo is their ig<g ref="char:EOLhyphen"/>norance. For they do not reckon it as an
+ordinance of God, but as a worke of man.</q> But if that ought to be condem<g ref="char:EOLhyphen"/>ned
+wholy, and throwne out of doores 
+<q>whatſoever wicked men do give or have</q>, I wonder truly why
+they do not abhorre the Gold and ſilver and other riches </p>
+            <q> 
+               <p>which they robbed from the wicked; and invent new ſubſtance for
+themſelves, <pb n="48" facs="tcp:107072:32"/>for, as theſe things, ſo alſo
+baptiſme is the worke and creature of God. When a wicked man ſweareth he
+abuſeth the true name of God; if it be not the true name of God to him, he
+doth not ſin. He that robbeth by the way, ſtealeth, or makes a prey of any
+thing, breaketh the command of God: if it be not the true command of God to
+him, he offen<g ref="char:EOLhyphen"/>deth not. So alſo if our former bap<g ref="char:EOLhyphen"/>tiſme be null, then they
+who were by it baptiz'd did not amiſſe. Why then do they accurſe the
+former baptiſme as a peece of villany, <hi>when yet tis nothing by their owne
+ſaying.</hi>
+               </p> 
+               <p> If marriages of the former age be to be reckoned as whoredome and
+adul<g ref="char:EOLhyphen"/>tery; becauſe contracted betweene thoſe, they ſay, that wanted faith
+pray do they not confeſſe themſelves to be the ſons of whores? Now if
+they be baſtards and illegittimate tell me why do they hold the
+poſſeſſions of their cities, and their Anceſtors? In truth it were
+but meete, ſince they are ſuch, to diſ-inherit them, and with their new
+kind of marri<g ref="char:EOLhyphen"/>age, turne them to get new riches and eſtates of an honeſter
+title. Nor truly is it handſome for ſuch holy and foreſooth <pb facs="tcp:107072:32"/>religious men to ſupport their lives with theſe whoriſh
+illegitimate goods, or take them by force and robbery from other men. As to
+that their <hi>ridiculous kingdome:</hi> there are therein ſo many and ſuch
+palpable peeces of roguery that I neede not ſay a word more to it.</p>
+            </q>
+            <p> And truly this we ſpeake is both too much, 
+<q>and ſeemes not very neceſſary, ſpecially ſince others
+fully have diſpatched the ſame already.</q>
+            </p>
+         </div>
+         <div n="21" type="chapter">
+            <head>CAP. XXI.</head>
+            <argument>
+               <p>
+                  <hi> A</hi> Dyet <hi>held at</hi> Wormes.</p>
+            </argument>
+            <p>IN the Diet of the empire, which king <hi>Ferdinand</hi> at the
+intreaty of the <hi>Prin<g ref="char:EOLhyphen"/>ces</hi> did by his<note n="(a)" place="margin">Am<g ref="char:EOLhyphen"/>baſſadors or Meſſen<g ref="char:EOLhyphen"/>gers.</note> 
+               <hi>Legates</hi>
+appoint at <hi>Wormes</hi> in the month of Aprill, the Cities, which had
+hitherto parted with no monies, at their firſt entrance do proteſt that
+their appearance there was not for the order made at <hi>Confluence</hi> but in
+obedience unto <hi>Caeſar</hi> and <hi>King Ferdinand.</hi> Then fell they to
+great daſhing with them about the contributi<g ref="char:EOLhyphen"/>on with the Princes. At laſt
+they did <pb facs="tcp:107072:33"/>conclude of ayde for five Months ſpace, at the rate of
+20000 Crownes the month: alſo that the Citie being got by ſtorme or
+otherwiſe there ſhould be mercy ſhew<g ref="char:EOLhyphen"/>ed to the harmeleſſe Multitude:
+&amp; that the honeſt, who either were beſieged or had wandered to ſome
+other place ſhould have their goods reſtored to them. Upon this order the
+<hi>Biſhop</hi> of <hi>Munſter</hi> gives up the <hi>Armie</hi> to
+<hi>Oberſtene.</hi> But whereas publique monies were very ſlow<g ref="char:EOLhyphen"/>ly, and
+almoſt too late diſpatched unto them, nothing worthy notice could be
+at<g ref="char:EOLhyphen"/>cheived; yea the Captaines more than once were in danger of their lives by
+the Souldiers mutiny for want of pay.</p>
+         </div>
+         <div n="22" type="chapter">
+            <pb n="51" facs="tcp:107072:33"/>
+            <head>CAP. XXII.</head>
+            <argument>
+               <p> The famine increaſeth. Many die. The reſt complaine. But hold
+on their courſe.</p>
+            </argument>
+            <p>NOw when within the city things were in ſuch a plight that many
+daily periſhed with the famine: many alſo got away to other places, who
+came forth, <hi>ſo nothing elſe but very skin and bone,</hi> that it
+commanded pitty from <hi>the enemy</hi> to them: the commanders give the
+Towneſ-men notice if they would deliver but the <hi>King</hi> &amp; ſome
+few others with him, <hi>themſelves ſhould ſuffer nothing.</hi> The
+Citizens, though it were their earneſt longing, yet frighted by the
+vigilancy, and ſeverity of the <hi>King</hi> durſt not ven<g ref="char:EOLhyphen"/>ture. For ſo
+obſtinate was the King that whilſt he lived as himſelfe (but with
+fewothers) openly declared he would never yeeld. The Commanders therefore upon
+this writing back forbid the ſending forth of any more, <hi>ſo much as
+women and Children.</hi> This was the firſt day of <pb n="52" facs="tcp:107072:34"/>June.
+Next day they anſwere, complai<g ref="char:EOLhyphen"/>ning that they could not have a lawfull
+hearing, and that they were ill dealt with, <hi>far beſide their merit,</hi>
+in the ſoareſt manner: that if any would diſcover their errour to them,
+they ſhould be ready to their duty. Then they unfold a place of
+<hi>Daniel</hi> about the fourth beaſt, which was by far the cruelleſt of
+them all. <hi>The cloſe of the letter was by Gods bleſſing they would
+abide by this confeſſion of the truth.</hi> But all this was thus written
+by the Kings appointment.</p>
+         </div>
+         <div n="23" type="chapter">
+            <head>CAP. XXIII.</head>
+            <argument>
+               <p> Two Revolters ſuggeſt a way to take the City. Their
+counſell embra<g ref="char:EOLhyphen"/>ced. And the City taken. Rot<g ref="char:EOLhyphen"/>mans deſperate end. The King
+and Cnipperdo<g ref="char:EOLhyphen"/>ling taken Priſoners.</p>
+            </argument>
+            <p>BUt now when things within the Ci<g ref="char:EOLhyphen"/>tie were brought unto the loweſt
+ebbe, out ran <hi>two of them.</hi> One taken by the Souldiers, the other, upon
+paroll <pb n="53" facs="tcp:107072:34"/>comes to the Biſhop, and both tell the way to take
+the City. <hi>Oberſtene</hi> and the <hi>Biſhop</hi> having heard the
+revolters talke, and the buſineſſe duly weighed, on June the 22 by parle
+adviſe the towneſ<g ref="char:EOLhyphen"/>men to yeeld themſelves, and ſave the ſtarving
+multitude. They in the pre<g ref="char:EOLhyphen"/>ſence of the King, anſwer by <hi>Rotman:</hi>
+yet ſo as to hold on their courſe. Two dayes after about eleven a clock by
+night the forces drew downe ſilently to the Citie, and by the induſtry of
+one of thoſe revolted, the forlorn having ſlaine the centineſs, get
+thorow the trench into the bulwark: others at their heeles find a wicket open,
+and about five hundred with ſome captaines and their collours threſt
+through into the City. There then the towneſmen in a body made others halt
+that were breaking in at laſt with much a<g ref="char:EOLhyphen"/>doe repulſe them, and clapping
+faſt the gate fall on thoſe gat in allready, put<g ref="char:EOLhyphen"/>ting many to the ſword.
+And when a ſharpe diſpute held thus for two houres ſpace, the Souldiers
+thus ſhut in teare up by ſtrength of hand the gate next to them, where the
+guard was weake, and cleere an entrance for their fellowes, who inſtantly
+ruſh in with a mighty Ocean. <pb n="54" facs="tcp:107072:35"/>And when at firſt the
+towneſmen ſtood their ground, and had made good the Hall; the caſe
+appearing deſperate, and many ſlaine; they, at the firſt aſſault
+<hi>cry quarter</hi> and <hi>obtaine</hi> it.</p>
+            <p>Here now the <hi>King</hi> and <hi>Cnipper doling</hi> both are
+taken priſoners. <hi>Rotman</hi> paſt hopes of eſcaping, that he might
+not fall into their hands alive, Char<g ref="char:EOLhyphen"/>geth the enemies body and is ran through.
+The city being taken, halfe the plunder and the Armes the <hi>Biſhop</hi>
+taketh to himſelfe. Then the Army is disbanded: two Collours only kept to be
+his guard.</p>
+         </div>
+         <div n="24" type="chapter">
+            <pb n="55" facs="tcp:107072:35"/>
+            <head>CAP. XXIV.</head>
+            <argument>
+               <p> Another <hi>Dyet</hi> of the Empire.</p>
+            </argument>
+            <p>THere followes upon this another Diet of the Empire at
+<hi>Wormes</hi> about the 15 day of July. Therein King <hi>Fer<g ref="char:EOLhyphen"/>dinand</hi> by
+his Legates doth propoſe and aske whether, <hi>the Citie being now
+poſſeſſed, courſe ſhould be farther taken for the utter rooting out
+of the Anabaptiſts. Adviſeth alſo, that the Princes move the</hi> Pope
+<hi>about the Counſell.</hi> They anſwere, <hi>what courſe to take with
+Anabaptiſts is provided for allready by certaine Edicts. For a counſell
+the</hi> Pope <hi>hath more than once beene ſolicited thereunto by Caeſar:
+nor would they make, they ſaid, any further pro<g ref="char:EOLhyphen"/>greſſe in it.</hi> At the
+ſame meeting the Biſhop of <hi>Munſter</hi> deſireth that his charge
+and dammage might be repaired; and complaineth that the monies promi<g ref="char:EOLhyphen"/>ſed were
+not yet come in. When no pro<g ref="char:EOLhyphen"/>ceedings farther could be had, and few
+<hi>Eſtates</hi> were preſent, another meeting was appointed about the
+firſt day of November, when there ſhould be hea<g ref="char:EOLhyphen"/>ring had of the accounts
+and charges of the warre: and reſolved upon what forme of government for the
+time to come at <pb n="56" facs="tcp:107072:36"/>
+               <hi>Munſter</hi> ſhould be
+eſtabliſhed. When that day came, the Legate of <hi>King Fer<g ref="char:EOLhyphen"/>dinand</hi>
+reports the cauſes of the calling this Aſſembly, namely among other
+things, <hi>that it might be alſo thought on how the Citie lately taken might
+be hence<g ref="char:EOLhyphen"/>forth ſetled in its old Religion.</hi> Then the Biſhops legate
+ſhewes them how <hi>great expences he was at throughout the war, how deepely
+he was run in debt, how, though the Citie now were taken, yet to prevent
+diſturbance and all danger he was enforced to raiſe two Cittadels in the
+City and to gariſon them:</hi> Upon all which he deſireth conſideration
+may be taken. T'was anſwered: that the <hi>Biſhop</hi> was
+poſ<g ref="char:EOLhyphen"/>ſeſſed <hi>allready of both the greater part of the ſpoiles and
+all the Armes, yea, and the</hi> Citizens <hi>goods, all which indeede belong
+unto the Empire: that it was meet to have the things, being prized, compared
+with the charge, what more was wanting care ſhould be had thereof.</hi> After
+twas reſolved that the <hi>Biſhop</hi> of <hi>Munſter,</hi> as
+heretofore, ſhould be ſubject to the Empiretall the <hi>Nobi<g ref="char:EOLhyphen"/>lity</hi> he
+reſtored, and the <hi>Citizens</hi> alſo, ſo they were not
+<hi>Anabaptiſts,</hi> that were wandered unto other places: for re<g ref="char:EOLhyphen"/>ligion,
+that the <hi>Biſhop</hi> follow the decrees <pb n="57" facs="tcp:107072:36"/>of the
+Empire, in the beginning of the ſpring, next yeare that the <hi>Legates</hi>
+of the <hi>Princes</hi> go to <hi>Munſter,</hi> take Cognizance of the
+Citizens conditions, ſave the innocent, demoliſh all the forts raiſed by
+the Ana<g ref="char:EOLhyphen"/>baptiſts, and that the Biſhop alſo pull downe the Cittadels
+raiſed by himſelfe within the Citie. For the <hi>King</hi> and
+<hi>Cnipperdoling</hi> and <hi>Cretchting,</hi> that were priſoners, let him
+puniſh them without longer ſtay at the firſt opportunity ac<g ref="char:EOLhyphen"/>cording to
+their demerits. As to that we told you was reſolved on about re<g ref="char:EOLhyphen"/>ligion, the
+Princes of <hi>Saxony,</hi> the <hi>Lant<g ref="char:EOLhyphen"/>grave</hi> of <hi>VVirtemberg,</hi>
+and <hi>Anhalt</hi> publi<g ref="char:EOLhyphen"/>quely proteſted their diſſent the ſame
+profeſſed the Cities alſo: and they would not have the ancient
+fortifications of the City to be demoliſhed, for the new they were
+content.</p>
+         </div>
+         <div n="15" type="chapter">
+            <pb n="58" facs="tcp:107072:37"/>
+            <head>CAP. XV.</head>
+            <argument>
+               <p> The King and his fellow priſoners carryed about to the Princes.
+De<g ref="char:EOLhyphen"/>bates with them.</p>
+            </argument>
+            <p>THe <hi>King</hi> and his two fellow priſoners were carried up and
+downe unto the Princes to be looked, and laughed at; Through this occaſion
+the <hi>Lantgraves</hi> Preachers get a conference with the king; and the
+liſt is entred ſpecially on theſe Ar<g ref="char:EOLhyphen"/>ticles: <hi>Of the Kingdome of
+Chriſt. The Magiſtrate, Juſtification, Baptiſme, the ſup<g ref="char:EOLhyphen"/>per of the
+Lord, the incarnation of Chriſt,</hi> and <hi>marriage.</hi> Wherein they
+went ſo farre by proofe of Scripture that the man, for all his wraſtling to
+make good his ground, was, though not fully turn'd, yet bent and weakned ſo
+that at the laſt he almoſt granted all. Which yet 'tis thought he did in
+hopes to ſave his life. For when they came the ſecond time unto him he 
+<pb n="59" facs="tcp:107072:37"/>promiſed, if he might be ſpared, that he would make the
+Anabaptiſts growne ſo numerous in <hi>Holland, Brabant, England,
+Friezland,</hi> all to be ſtill and ſubmit in all things to the
+Magiſtrate. The ſame men then enter diſputation with his fellowes, both
+by word and writing, Of <hi>Mortification, Paedobaptiſme, Community</hi> of
+goods, and the <hi>kingdome of Chriſt.</hi>
+            </p>
+         </div>
+         <div n="26" type="chapter">
+            <head>CAP. XXVI.</head>
+            <argument>
+               <p> The Kings diſcourſe with the Biſhop. His and his fellowes
+Puniſh<g ref="char:EOLhyphen"/>ment.</p>
+            </argument>
+            <p>WHen they were brought to Talget, the King being aſ<g ref="char:EOLhyphen"/>ked by the
+Biſhop, by what authority he durſt to arrogate ſuch licence on
+<hi>his</hi> City and <hi>his</hi> people? Askes him againe, and who gave him
+the Rule and Govern<g ref="char:EOLhyphen"/>ment there? when the Biſhop anſwe<g ref="char:EOLhyphen"/>red that he had it by
+conſent of the <pb n="60" facs="tcp:107072:38"/>Colledge and the people: he replyes God
+called him thither. Then on the 19 day of <hi>January</hi> they are brought
+back to <hi>Munſter</hi> and put in ſeverall priſons. The ſame day
+alſo thither came the <hi>Biſhop,</hi> and with him the <hi>Le<g ref="char:EOLhyphen"/>gates</hi>
+of the <hi>Archbiſhop of Colen</hi> and <hi>Prince of Cleve.</hi> The two
+dayes fol<g ref="char:EOLhyphen"/>lowing were ſpent in godly admo<g ref="char:EOLhyphen"/>nition to reclaime them from their
+errour, and the king indeed con<g ref="char:EOLhyphen"/>feſſed his ſin, and praying, made his
+application unto <hi>Chriſt</hi> for Succour. But the other two neither did
+acknowledge any fault, and ſtiflly ſtood upon their vindication. Next day
+the <hi>King</hi> brought forth upon a ſcaffold is bound unto a ſtake. Two
+Executioners are ſtanding by him, and tongs burning hot. At the three firſt
+pinches he ſpake not a word: but afterwards continually im<g ref="char:EOLhyphen"/>ploring God for
+mercy, when he had beene torne this faſhion for an houre or more, by a
+ſword at laſt thruſt through his heart, gave up the Ghoſt. His fellowes
+fared a<g ref="char:EOLhyphen"/>like. Being dead, they are all made <pb n="61" facs="tcp:107072:38"/>faſt in
+ſeverall Iron cages, and hung upon the higheſt tower of the City. The
+<hi>King</hi> indeede betwixt them both, and about the ſtature of a man above
+them.</p>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:107072:39"/>
+            <pb n="1" facs="tcp:107072:39"/>
+            <head>The POSTSCRIPT, <hi>Of the Tumult late at</hi> Abingdon.</head>
+            <div n="1" type="section">
+               <head>§. 1.</head>
+               <opener>
+                  <salute>Indifferent Reader.</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">S</seg>Ome yeares are paſt ſince firſt the <hi>ſtory</hi> and
+its <hi>preface</hi> gone before were dreſſed and ready in that very garbe
+(unto a little trimming) now thou findſt them in, but had never put the foot
+(I am perſwaded) over the threſhold of their owne doore, no not ſo much
+as to take the ayre with a freind or two, much leſſe to have rambled up and
+downe the Country at this rate they do, had not <pb n="64" facs="tcp:107072:40"/>the
+<hi>ſad condition</hi> of a froward age, and <hi>ſerious conſcience</hi>
+of ſerving ſoules (per<g ref="char:EOLhyphen"/>haps thine owne for one) <hi>to paſſe</hi> by
+<hi>freinds deſires,</hi> conſpired in a reſtleſſe importunity to
+force them to this poſture. What relliſh the <hi>Eſſay</hi> it ſelfe,
+or this <hi>profeſſion</hi> concerning it will find with <hi>perſons
+over-byaſſed</hi> by the prejudice of their owne ſpirits; conſequently,
+what returne of thankes at the <hi>ſame hands</hi> ſuch a venture will
+bring in, needs <hi>no diviner to preſage.</hi> However, on ſup<g ref="char:EOLhyphen"/>poſall
+that the coſts, when well <hi>caſt up,</hi> will not enflame the
+<hi>totall</hi> paſt poſſibili<g ref="char:EOLhyphen"/>ty of being cleer'd off even to a token,
+and ſomething ſpare, by the <hi>meere aſſu<g ref="char:EOLhyphen"/>rance of the deſignes
+integrity nakedly to promote the publique intereſt</hi> (as is the caſe,
+nor quite forſaken of all hopes to ſpeede therein) I hope the ſuppoſed
+<hi>inconveni<g ref="char:EOLhyphen"/>ence</hi> will be ſomewhat ballanced, and this <hi>attempt</hi>
+of Chriſtian ſervice ſuffici<g ref="char:EOLhyphen"/>ently <hi>abetied.</hi> That we are all apt
+to be ſo fond of the <hi>Bird of our owne neaſt</hi> ſo to fancy the
+iſſues of our owne minde, as to make our jealouſy burne like frie: at
+whatſoever carryeth <hi>but the appearance</hi> of a non-compliance with this
+our in dul<g ref="char:EOLhyphen"/>gence, is not to be denyed: Oh that <pb n="65" facs="tcp:107072:40"/>it were
+bewailed! What other reaſon (to inſtance there) can be aſſigned that
+ſuch a <hi>ſignall Monument,</hi> as this Munſter tragedy is, of the
+Almighties vengeance <hi>againſt mans turning grace in to
+wantonnneſſe,</hi> ſhould be ſo much out of credit with the preſent
+ſucceſſours of their faith and practice (at leaſt from whence they are
+denominated) that inſtead of being looked upon, and trembled at, and warning
+tooke thereby, 'tis cauſe enough, but with <hi>too many of them,</hi> to
+enroll him for an <hi>enemy</hi> (in deſpite of the pureſt ayme to <hi>act
+the freind</hi> therein) that ſhall perſwade thereto. It is ſomewhat
+lighter I confeſſe ſince a chiefe Apoſtle hath beene put to that
+Apology, <hi>Am I therefore become your Enemy becauſe I tell you the
+truth?</hi>
+                  <note place="margin">
+                     <hi>Gal.</hi> 1.16 (<hi>P.</hi> 2.) A
+<hi>[Pre<g ref="char:EOLhyphen"/>ſage of things with us]</hi>
+                  </note>
+               </p>
+            </div>
+            <div n="2" type="section">
+               <head>§. 2.</head>
+               <p>But the proofe of this is now no longer <hi>beyond the
+ſeas,</hi> having landed on <hi>our Coaſts</hi> ſome yeares agoe, and
+taken up its Quarters in <hi>every County</hi> (if not moſt townſhips) of
+the Engliſh Nation. Our wonder is the leſſe becauſe (though more is the
+pity, and the rather that <pb facs="tcp:107072:41"/>
+                  <hi>it</hi> is ſo litle laid to heart)
+the <hi>Old knowne enemy</hi> to all concernments of Chriſtia<g ref="char:EOLhyphen"/>nity having
+bankrupt <hi>there</hi> both <hi>caſh</hi> and <hi>credit</hi> is ſhuffling
+the cards to play ore his game (once more) <hi>with us,</hi> Their im<g ref="char:EOLhyphen"/>putation
+(that it may be would be <hi>game<g ref="char:EOLhyphen"/>ſters</hi>) unto this ſuggeſtion,
+<hi>as ſavoring purely of a ſpirit overgrowne with melane choly, that
+feares its owne ſhadow,</hi> and <hi>cries out when there is none to hurt
+him,</hi> may eaſily raiſe duſt enough (ſutably to his method that
+chaſeth darkneſſe for his worke, as being prince thereof) to con<g ref="char:EOLhyphen"/>voy a
+plot without obſervance by a <hi>purblind eye,</hi> but really hath little
+efficacy to put off <hi>men</hi> for <hi>trees</hi> to a <hi>firmer
+ſight;</hi> and none at all to <hi>bleſſe him with the happineſſe of
+a diſſappointment to his feare that labours under it.</hi> For my owne part
+without diſſembling (for now it is no time for ſilence when the very
+Ecchoes of ſeditious language makes almoſt every hill and vale to ring
+againe) to <hi>me</hi> nere did a cloudy lowring morning ſpeake lowder for
+ſome ſtormes a brew<g ref="char:EOLhyphen"/>ing, then do the <hi>diſcontents</hi> amongſt us
+<hi>avowed and triumphed in,</hi> even to the clowding of the very aire with
+the ſmoake thereof, portend ſome fire at bottome <pb n="67" facs="tcp:107072:41"/>(with
+the gentleſt gale) ready to enflame. Whoever will be at the coſt but by
+looking ore the former ſtory, only to obſerve the <hi>Germane
+Monſters</hi> ſhape and compare it with that <hi>Embryon</hi> hatching (you
+will ſee anon) but alas too faſt in <hi>England</hi> (the ſonle indeede
+of actuall inſurre<g ref="char:EOLhyphen"/>ction is, through mercy, not yet infuſed) I ſhall be
+confident of finding him remote enough from rejecting this ſad preſage as
+<hi>purely Melancholicall.</hi>
+               </p>
+            </div>
+            <div n="3" type="section">
+               <head>§. 3.</head>
+               <p>Let us a while ſay nothing of the Bookes in print,<note place="margin">[Grounded on common diſcourſs, &amp;<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note> although thoſe ſay enough;
+let us meddle not with publique prayings and ſpeakings, which yet ſpeake
+plaine to the point in hand: only attend a litle unto what is growing unto
+<hi>table talke</hi> common diſcourſe in every mouth almoſt of thoſe
+reteining to our male-contented ſpirits: What comes it to? <hi>The Saints
+muſt rule.</hi> Tis true in Scrip<g ref="char:EOLhyphen"/>ture ſenſe, but when or how we will
+ſpare to aske it here. It ſeemes tis plaine with them, they do not then as
+yet; do not they meane <hi>themſelves alone</hi> can any thinke? Why elſe
+one dram or <pb n="68" facs="tcp:107072:42"/>two of charity left for <hi>the people not
+their owne,</hi> would bid them ſpare the paines of ſeeking what they have
+already. <hi>The ungodly muſt come downe,</hi> we do not doubt it neither, in
+the ſenſe of Scrip<g ref="char:EOLhyphen"/>ture ſtill. But who are they, if the Judg<g ref="char:EOLhyphen"/>ment alwaies
+muſt be their owne (as to be ſure it ſhall when once they rule the
+roaſt) May I ſpeake the feares of others the honeſt <hi>Presbyterian</hi>
+and <hi>In<g ref="char:EOLhyphen"/>dependant</hi> will be in the number: or, which comes to one the
+godly, not of their perſwaſion? Elſe, for the <hi>ranting royall
+Enemy</hi> 'tis ſeene by all he is humbled pretty well allready: at leaſt
+is not a man of Power now, and therefore not <hi>therein</hi> intended. The
+<hi>preſent Powers,</hi> how litle mercy have they at their hands? <hi>Not of
+God, injuſt, apoſtaticall, illegall, tyrannicall, perſecuting,</hi> and
+enough of this kind toſſ'd like a football up and downe the Country: More,
+<hi>Muſt not be payed to, nor prayed for,</hi> and <hi>this pra<g ref="char:EOLhyphen"/>cticall
+too</hi> within our obſervation. And pray why not reſiſted next? Though
+one told me (upon an Item given of the Munſter buſineſſe) ſome of
+them (the modeſter belike) thought it not <hi>convenient</hi> ſo to do. By
+what of mine <pb n="69" facs="tcp:107072:42"/>owne eares, and by what of other honeſt mens
+reports, I meet with, beſide their bookes, Reader, I may be well content to
+heare thee ſay, as <hi>ſhe</hi> once did in ano<g ref="char:EOLhyphen"/>ther caſſe: <hi>The
+halfe is not told me.</hi> And now, can any man that is well in his wits, how
+ere the matter may be blanched over to any excuſe, pretence or varniſh
+whatſoever, forbeare to ſay, <hi>What meanes this bleating in mine
+eares?</hi>
+               </p>
+            </div>
+            <div n="4" type="section">
+               <head>§. 4.</head>
+               <p>Whether the <hi>buſineſſe late at A<g ref="char:EOLhyphen"/>bingdon,</hi>
+                  <note place="margin">[The
+Af<g ref="char:EOLhyphen"/>faireslate at <hi>Abingdon</hi> conſidered]</note> in the County of Berks,
+the rumour whereof hath beene upon the wing ere this no doubt unto the utmoſt
+limits of Engliſh ground, contributes any farther evidence, and what that is
+to the al<g ref="char:EOLhyphen"/>ready juſt ſuſpition comes now to be con<g ref="char:EOLhyphen"/>ſidered. That the
+waies are ſo blocked up from thoſe mens comming at any cer<g ref="char:EOLhyphen"/>tainty of
+intelligence in that affaire, whoſe habitations are remote (ſuch to be
+ſure as either weare the ſame livery with them<g ref="char:EOLhyphen"/>ſelves or otherwiſe,
+whoſe over fond credulity will diſpoſe to any inpreſſion) by a moſt
+<hi>lame report</hi> (to ſpeake moſt <hi>ſoftly</hi>) the parties
+delinquent thence have <pb n="70" facs="tcp:107072:43"/>thruſt upon the Nation in a
+<hi>ſingle ſhee<g ref="char:EOLhyphen"/>ted pamphlet,</hi> muſt be confeſſed by all whoſe
+eyes have <hi>coaſted</hi> on it. And yet I nothing doubt, but that a
+perſon of indifferent apprehenſion <hi>(provided all<g ref="char:EOLhyphen"/>waies his affection be
+none other)</hi> upon due peruſall of that <hi>complaining Teſtimony,</hi>
+for ſo tis ſtyled, will neede no <hi>Index</hi> for directing him to find
+firme bottome that may beare a <hi>ground peece</hi> of ſtate diſturbance
+faſtened on it. A peece (with good leave of the Reader, to begin the Account
+intended, with firſt caſting up how much that comes to) ſo every way (in
+mine opinion) <hi>paſt re<g ref="char:EOLhyphen"/>claiming,</hi> that its parents, notwithſtanding
+naturall fondneſſe, have cauſe enough to <hi>diſinherit</hi> it, yea
+never more to <hi>looke upon it as their child.</hi> In earneſt, if one
+ſilly ſheet of paper (for tis no more) may po<g ref="char:EOLhyphen"/>ſſibly <hi>breed
+bate</hi> twixt <hi>Folly, Falſehood,</hi> and <hi>Sedition,</hi> whoſe
+ſhare is greateſt in it; <hi>I</hi> thinke <hi>tis here.</hi>
+                  <note place="margin">[Which is found fow<g ref="char:EOLhyphen"/>ly guilty of]</note> Having once but cleerely
+ſhewed how the <hi>Competitours</hi> lay their ſeverall claymes, Ile leave
+the controverſy undecided as I find it.</p>
+            </div>
+            <div n="5" type="section">
+               <pb n="71" facs="tcp:107072:43"/>
+               <head>§. 5.</head>
+               <p>Firſt,<note place="margin">
+                     <hi>(1)</hi> [Folly]</note> to create
+the expectation of a <hi>dolefull tragedy,</hi> ſay, to hang forth ſome
+<hi>Hercules Furens</hi> dyed deepe as ſcarlet from top to toe with the blood
+of next &amp; deareſt relations: and then to entertaine the <hi>Longing
+ſpectatour</hi> with the cruell murder of <hi>a man of ſtraw,</hi> or to
+demon<g ref="char:EOLhyphen"/>ſtrate the gaping mortall wounds made on a litle finger by a merciles
+pin, drawne from the ſleeve its ſcabbard: I aske, whe<g ref="char:EOLhyphen"/>ther the merits of
+ſuch a cauſe may fairely plead <hi>not guilty of childiſh vanity,</hi> or
+juſt<g ref="char:EOLhyphen"/>ly make complaint it is nicknamed, if any chance to call it
+<hi>trifling,</hi> and <hi>ridi<g ref="char:EOLhyphen"/>culous.</hi> If this be not of kin, yea
+coſen<g ref="char:EOLhyphen"/>germane to the caſe in hand upon the evidence the <hi>paper
+mentioned</hi> it ſelfe gives in, I'le aske no mercy at the hands of <hi>any:
+if ſo,</hi> I thinke there is as little neede to feare the cenſure. The
+<hi>lintell of the doore</hi> hath written on it, I meane the <hi>Title
+Page</hi> cryes out,<note place="margin">[In ſad cryes]</note> of <hi>ſore
+calamity</hi> nay <hi>inhumane dealings</hi> of officers and ſoul<g ref="char:EOLhyphen"/>diers
+(repeated pag. 1) that is, a behaviour of them <hi>befitting bruits not
+men:</hi> no won<g ref="char:EOLhyphen"/>der <pb n="72" facs="tcp:107072:44"/>then to heare of ſore calamity.
+Whoſe pitty <hi>now</hi> would not this pro<g ref="char:EOLhyphen"/>voke? Goe on your firſt ſtep
+in the <hi>Entry</hi> (the firſt Epiſtle) ſhewes you <hi>contempt,
+deſpight, reproach;</hi> yea <hi>ſufferings</hi> and
+<hi>tri<g ref="char:EOLhyphen"/>bulations,</hi> under which they are. Really if ſo, and undeſerved
+too, 'twould make ones heart to ake. At the <hi>other end</hi> (the ſecond
+epiſtle) there you may run and read a ſad complaint indeed of
+<hi>perſecu<g ref="char:EOLhyphen"/>tion, Cruelty,</hi> and <hi>blood of Brethren.</hi> Whoſe
+bowels would not yearne to heare the ſtory of one brothers plucking out,
+<hi>as it were,</hi> anothers heart, and waſhing his hands in the very blood
+thereof? Were this the caſe, no marvell though they call it <hi>a darke and
+gloomy day,</hi> as twice they do in the <hi>breath</hi> of the firſt
+<hi>roome,</hi> or <hi>page</hi> you come at.</p>
+            </div>
+            <div n="6" type="section">
+               <head>§. 6.</head>
+               <p>But yet alas! when all doth come to all,<note place="margin">[Without all cauſe]</note> what is this ſaddeſt matter, if
+we take their owne bare word for all? View well the <hi>Teſtimony</hi> (I
+wiſh themſelves would do it) and there you find (upon all their moſt
+<hi>unſufferable provocations) One had his hawking bag ſearched and 
+<pb n="73" facs="tcp:107072:44"/>tis ſaid writings (happily ſeditious) taken out. Others
+even for (no better then calling) they ſay, comparing the Commander and his
+party to their very faces unto high way men (for anſwering</hi> but as
+Souldiers <hi>to their petulant challenges of them upon their Orders and
+Commiſſion) commanded to their chambers, and for their inſo<g ref="char:EOLhyphen"/>lencies in
+that carriage, caned by him. Some at their meeting houſe doore by the</hi>
+Guard, <hi>there ſet (of ſouldiers it ſeemes, and with their piſtols
+too, and in their hands belike) hindred from going in. And in particular one
+living there had a piſtoll preſented (it may bee fixed for they ſay twas
+cocked) to his</hi> breaſt (<hi>not</hi> back) <hi>when pre<g ref="char:EOLhyphen"/>ſſing in. At
+the laſt and worſt aſſault (when faire meanes could do no good Reader
+aſſure thy ſelfe) They tell you one was pulled downe from ſomething
+that he ſtood upon. Another to get out of the way ſtumbled over ſtones to
+his hurt. A third offered to be rode over, but not come at. A fourth had many
+blowes made at him, but was touched by none. A fifth had his hat ſlaſhed
+in</hi> three or foure <hi>places, &amp; which is worſt of all, the</hi>
+Commander <hi>cut divers.</hi> But who, and what they were: what danger in
+their wounds; where they lie <pb n="74" facs="tcp:107072:45"/>under ſurgeon, with ſuch
+like <hi>weighty circumſtances;</hi> No, not a word. It was ſuch a fray
+that though they write, <hi>ſome had their clothes torne, and ſome were
+haled (not dragged upon the ground) about the market place:</hi> yet how many
+were ſlaine upon the place, how many mor<g ref="char:EOLhyphen"/>tally wounded, or how many utterly
+diſabled we muſt goe ſome where elſe to be informed. This is <hi>their
+ſtory,</hi> Rea<g ref="char:EOLhyphen"/>der (mine account whereof I truſt upon thy ſtricteſt
+ſearch will paſſe for current: moſt ſure I am with <hi>care</hi> and
+<hi>conſcience</hi> it hath beene called to the teſt) this is, I ſay
+<hi>their ſtory</hi> ſerved in with <hi>ſore calamity,</hi> with
+<hi>cruelty</hi> and <hi>blood,</hi> as more thou heardeſt but now. VVhich
+what it makes on the firſt <hi>Claimers</hi> ſide, Ile leave un<g ref="char:EOLhyphen"/>to thy
+ſelfe: but with preſumption that ſome ſilent thoughts at leaſt will
+tell thee thy paines &amp; patience have juſt their amends, who gaping
+<hi>out of breath,</hi> to ſee the <hi>mighty monſter</hi> (doubtleſſe)
+which a moun<g ref="char:EOLhyphen"/>taine fallen in travaile would bring forth, at laſt perceive
+there comes a <hi>little mouſe.</hi> As for <hi>their parts</hi> when they
+complaine of hard meaſure, that their <hi>nakedneſſe</hi> is ſo taken
+notice <hi>of,</hi> and withall acquit themſelves of the <hi>imputation</hi>
+of <hi>immodeſty</hi> 
+                  <pb n="75" facs="tcp:107072:45"/>ſo too, <hi>themſelves,</hi>
+uncover it in publique view, we are content to ſtand obliged for giving
+better ſatisfaction to them. Meane while, having <hi>but once</hi> enquired
+what elſe ſhould meane this querulous and unreaſonably whining ſpirit,
+ſave to <hi>lay low</hi> (with thoſe <hi>tame ſoules</hi> they deale with
+<hi>blindfold;</hi> for an <hi>open eye</hi> ſees in it nothing elſe but
+<hi>very chaffe</hi>) the reputa<g ref="char:EOLhyphen"/>tion of our <hi>Magiſtrates,</hi> who give
+ſuch hardeſt meaſure: and to <hi>raiſe</hi> their owne, who
+<hi>quietly</hi> put it up. and <hi>added,</hi> that if ever thoſe
+<hi>worthies, Heb.</hi> 11. (to looke no further) ſuffered <hi>but at,</hi>
+and yet com<g ref="char:EOLhyphen"/>plained <hi>after ſuch a rate,</hi> Ile never truſt mine eyes
+againe. We will hearken unto what comes next.</p>
+            </div>
+            <div n="7" type="section">
+               <head>§. 7.</head>
+               <p>Then whether <hi>Truth</hi> and <hi>conſcience</hi> do not
+ſuffer ſomewhat more than <hi>meere reſtraint,</hi>
+                  <note place="margin">
+                     <hi>(2)</hi> Falſehood.</note> I meane flat
+<hi>baniſhment,</hi> at the hands but of too many <hi>paſſages</hi> in
+that <hi>Paper,</hi> could I be heard, I would beſeech themſelves well to
+conſider. To take the teſtimonies but of two or three, enough to make a
+valid proofe if they ſpeake home to the point in hand, if not, I 
+<pb n="76" facs="tcp:107072:46"/>muſt profeſſe they are <hi>Barbarians</hi> unto me,
+or <hi>mute as fiſhes.</hi> For inſtance. Firſt where they call it
+<hi>now</hi> a day of their <hi>ſore calamity,</hi>
+                  <note place="margin">[In
+notori<g ref="char:EOLhyphen"/>ous miſre<g ref="char:EOLhyphen"/>ports of their-owne and—]</note> elſewhere amplified
+(as tis well knowne) by words of heavieſt weight and ſaddeſt import,
+<hi>contempt, reproach, per<g ref="char:EOLhyphen"/>ſecutions</hi> &amp;c.</p>
+               <p>But is the matter <hi>thus</hi> indeede? Or is it poſſible
+<hi>themſelves alone</hi> of all the world ſhould ſee tis ſo? What are
+thoſe preſ<g ref="char:EOLhyphen"/>ſures lying on them that fetch ſuch ſighes and groanes
+from their very hearts a<g ref="char:EOLhyphen"/>gaine? If we go round the Nation, and aske their
+Neighbours in every tything, who can acquaint us with them? May we not, Reader,
+muſt we not ſay unto them, as the Apoſtle did to others, <hi>who is he
+that will harme you if ye be followers of what is good?</hi> Are not their
+<hi>liberties</hi> &amp; their <hi>Proper<g ref="char:EOLhyphen"/>ties</hi> aſcertained to them by as
+good a <hi>title</hi> as any other perſons whatſoever. Yea by as good a
+title as unto the <hi>Preſent Govern<g ref="char:EOLhyphen"/>ment</hi> it ſelfe, I meane the
+<hi>Inſtrument.</hi> Who doth not know that <hi>theirs</hi> and <hi>its</hi>
+muſt live and dye together, unleſſe <hi>themſelves</hi> lay violent
+hands on <hi>either</hi> before the time. <hi>And are they not in
+poſſeſſion of them?</hi> Ah worſt ingratitude to the hand of mercy,
+that puts <hi>ſweete for bitter,</hi> and <pb n="77" facs="tcp:107072:46"/>
+                  <hi>bitter for
+ſweete,</hi> that nicknames <hi>light darkneſſe,</hi> and
+<hi>darkneſſe light, good evill</hi> and <hi>evill good!</hi> And can a
+gracious ſoule forget or ſlight the bitter word againſt that evill frame
+of ſpirit?<note place="margin">
+                     <hi>Iſay</hi> 5.20.</note> All that is ſaid,
+or poſſibly <hi>can be</hi> (whereof I am aware) which whether heavier than
+the <hi>duſt of the ballance</hi> is quickly tryed, comes but to this,
+<hi>ſome</hi> (very few) <hi>of their freinds are kept in Priſon.</hi> And
+muſt <hi>their freinds</hi> (if one ſhould aske them) of all the world
+alone be lawleſſe? Is this the liberty contended for (to put that alſo)
+that they <hi>ſpeake</hi> what they pleaſe, <hi>do</hi> what they liſt
+and no man dare to call them to account? Or if (once more yet)
+<hi>Authority</hi> ſhall make ſo bold, and with <hi>their freinds,</hi> for
+preſervation of the whole, as to command the paring of a <hi>nayle</hi> or
+cutting of a <hi>corne,</hi> is all then gone to wrack immediately? The tender
+uſage of that very ſmall and inconſiderable number (if now at all a
+number) under reſtraint, is juſt ſo far (their miſcarriages duly
+meaſured) from laying ground of halfe <hi>thoſe clamours</hi> gone abroad
+about it, that it irreſiſtably obligeth unto gratitude all ingenuous
+ſpirits Sympathizing with them. He that heares any thing, <hi>with<g ref="char:EOLhyphen"/>out 
+<pb n="78" facs="tcp:107072:47"/>his owne doore,</hi> cannot be ignorant that nothing
+leſſe than <hi>flat defiance of Authority with us,</hi> brought them where
+they are. A leſſon ſure enough nere taught them by the bleſſed
+ſpirit,<note place="margin">
+                     <hi>Rom.</hi> 13-1.</note> whoſe language is
+<hi>let every ſoule be ſubject to the higher powers, becauſe they are the
+Ordi<g ref="char:EOLhyphen"/>nance of God.</hi>
+               </p>
+            </div>
+            <div n="8" type="section">
+               <head>§. 8.</head>
+               <p>Nor doth it ſerve the turne,<note place="margin">[Sions pre<g ref="char:EOLhyphen"/>ſent
+condi<g ref="char:EOLhyphen"/>tion, ſpecial<g ref="char:EOLhyphen"/>ly—]</note> only to call it <hi>now</hi> a day of
+<hi>their owne calamity,</hi> but <hi>Sion</hi> alſo muſt be intituled to
+that complaint: <hi>Sions tribulation;</hi> ſo the ſub<g ref="char:EOLhyphen"/>ſcription to the
+firſt epiſtle hath it.</p>
+               <p>
+                  <hi>Is</hi> Sion <hi>only among themſelves?</hi> Let any ſhew
+me how that phraſe will faire<g ref="char:EOLhyphen"/>ly beare another ſenſe. There is then but
+<hi>little Truth</hi> in that I thinke all <hi>other men</hi> will ſay: and
+<hi>leſſer love</hi> (me thinkes) I may: but that (alas!) <hi>tis no ſuch
+newes to find it ſo with them.</hi> Or if we <hi>ſtraine</hi> their [Sion]
+that there may be roome for <hi>other, all Saints elſe,</hi> beſides
+themſelves, within theſe Lands to ſhelter under it, tis ſtill as much
+an <hi>Alien</hi> unto <hi>Truth</hi> as formerly. <hi>Had indeed the Lord
+cauſed the wayes of</hi> Sion <hi>to mourne, <pb n="79" facs="tcp:107072:47"/>becauſe
+none came to her Solemne Aſſem<g ref="char:EOLhyphen"/>blies: had the Lord abhorred his</hi>
+Sanctuary <hi>that his voyce from thence were no more heard: had the</hi> Lord
+<hi>given her walls into the hand of her</hi> Enemy, <hi>that ſhee muſt
+hold her</hi> tongue <hi>and not make mention of the name of</hi> Lord. VVere
+this, or worſe, <hi>the caſe of the</hi> Sion <hi>here with us:</hi> who of
+her <hi>ſons</hi> but his eye muſt needs affect his heart unto a
+<hi>dolefull lamentation</hi> for and with her? But, <hi>whilſt our eyes
+behold our</hi> teachers, <hi>and ſee the beauty of their feet that bring
+glad tydings: whilſt we ſit under our vines and fig-trees none making us
+afraid: Whilſt</hi> Kings <hi>are nurſing fathers</hi> to us, <hi>and</hi>
+Queenes <hi>our nurſing mothers:</hi> as <hi>here</hi> 'tis thus with Sion
+<hi>yet,</hi> and ſomewhat better (adored be that <hi>grace</hi> from whence
+tis ſo) it cannot ſinke into our thoughts but as her <hi>heart</hi> is
+filled with joy and <hi>mouth</hi> with <hi>laughter</hi> hereupon, ſo her
+<hi>com<g ref="char:EOLhyphen"/>plaints</hi> will find ſome fitter matter to ſpend themſelves
+upon, moſt likely, <hi>that untoward frame of ſpirit that doth not duly
+prize and make a juſt improvement of thoſe ſignall mercies injoyed by
+her.</hi>
+               </p>
+            </div>
+            <div n="9" type="section">
+               <pb n="80" facs="tcp:107072:48"/>
+               <head>§. 9.</head>
+               <p>I ſhall paſſe by their <hi>frontiſpeece</hi>—
+implicite accommodation of the 3 <hi>of Malachy and</hi> 15 <hi>verſe</hi>
+unto our times: and diſcharge the <hi>ſecond parties claime</hi> upon the
+hearing only of <hi>one evidence</hi> more given in,<note place="margin">[The
+groſſe untruth in pleading not guilty under ſuch appa<g ref="char:EOLhyphen"/>rent
+misbe<g ref="char:EOLhyphen"/>haviour]</note> in one <hi>halfe line</hi> in their laſt page. And thus
+it ſayes, <hi>Little againſt any was ſpoke or done at the
+meeting.</hi>
+               </p>
+               <p>But where is now the ſoft and tender Conſcience that will not
+beare falſe wit<g ref="char:EOLhyphen"/>neſſe, and dareth thus deliberately in the face of heaven
+and earth, and by ſo many <hi>hands</hi> (how few ſoever were the
+<hi>heads</hi> about compoſing right <hi>hearts</hi> for certaine
+<hi>herein</hi> being feweſt of all) to caſt up, <hi>in print,</hi> ſo
+vaſt a bill of <hi>venomed provo<g ref="char:EOLhyphen"/>cations</hi> into <hi>very ciphers?</hi> All
+was but <hi>litle,</hi> ſay they, but what that <hi>litle</hi> was it
+ſeemes they have <hi>more wit</hi> (at leaſt) than tell. <hi>A little
+truly</hi> of their <hi>little, Reader, thou mayſt expect to heare anon.</hi>
+Meane while I would aske <hi>themſelves.</hi> Is this the part of
+<hi>faithfull Hiſtorians;</hi> but no more of that: doth it become honeſt
+and upright Chriſti<g ref="char:EOLhyphen"/>ans, <hi>Sons of Sion,</hi>
+                  <note place="margin">
+                     <hi>[Teſtim:]</hi> pag. 4. l. 31, 32, 33.</note> to pretend an
+exact <hi>Relation,</hi> for preventing falſe reports, with 
+<pb n="81" facs="tcp:107072:48"/>acouched obligation on mens conſcien<g ref="char:EOLhyphen"/>ces, <hi>at leaſt
+their brethrens,</hi> to credit none but theirs: and that too in a
+buſineſſe of ſuch moment wherein <hi>all Authority</hi> on one hand is
+concerned, and ſome private perſons on the other, upon a ten<g ref="char:EOLhyphen"/>der point,
+<hi>Reputation of the deareſt kind, conſcience, piety,</hi> (what not?) and
+yet to be ſo groſſly partiall to the eye of every Reader, as on their
+<hi>owne behalfe</hi> to put downe pence for pounds or better, and on
+<hi>Authorities</hi> neither pence nor pounds at all. Whom will not ſuch
+proceedings put in mind of the people that made <hi>lies their refuge,</hi> and
+<hi>under falſehood hid themſelves?</hi> Believe it 'tis the eaſi<g ref="char:EOLhyphen"/>eſt
+taske after this rate to juſtify the wicked and condemne the righteous,
+<hi>with abundant plauſibility,</hi> that may be thought on. Nere did the
+womb of Newgate deliver a <hi>viler wretch</hi> than by this method of
+procedure might die a <hi>Martyr,</hi> and leave the blackeſt brand of
+<hi>Perſecutor</hi> on his moſt <hi>upright judge,</hi> that paſſed the
+ſentence on him. Surely the 9th <hi>Commandement</hi> but well conſi<g ref="char:EOLhyphen"/>dered
+and awfully received, would have marred that <hi>claime</hi> that lyes ſo
+<hi>fairely</hi> 
+                  <pb n="82" facs="tcp:107072:49"/>now (or <hi>foulely</hi> rather) for
+<hi>falſehood</hi> in that paper.</p>
+            </div>
+            <div n="10" type="section">
+               <head>§. 10.</head>
+               <p>We are come at laſt unto the laſt Pre<g ref="char:EOLhyphen"/>tender that is
+<hi>Sedition.</hi>
+                  <note place="margin">
+                     <hi>(3)</hi> [Sedition]</note> To
+pronounce it as the <hi>Soule</hi> that animates the whole, would both prejudge
+the tryall, and looke too like a paſſing ore thoſe bounds then ſet when
+firſt the Champions were uſherd in to play the prize. Let the
+<hi>Reader</hi> only take that hint and purſue it further at his owne
+diſcretion.</p>
+               <p>Not to inſiſt upon the plagues they threaten ſuch as
+faithfully will ſerve the ſtate.<note place="margin">
+                     <hi>Epiſt.</hi>
+2.8.</note>
+               </p>
+               <p>If <hi>Scornes,</hi> and <hi>raylings, ſlanders</hi> and
+<hi>black cenſures upon Authority</hi> it ſelfe: if theſe not
+<hi>cypherd</hi> but in <hi>words at length,</hi>
+                  <note place="margin">[In vile
+revilings of Authori<g ref="char:EOLhyphen"/>ty]</note> not <hi>ſingle</hi> but <hi>in
+companies,</hi> not <hi>once</hi> but <hi>often<g ref="char:EOLhyphen"/>times</hi> belched out may
+<hi>commence Sediti<g ref="char:EOLhyphen"/>on:</hi> that <hi>Paper</hi> ſure enough hath done all
+its <hi>exerciſe,</hi> and is as well fitted for the faculty as a
+<hi>vagabond for the Stockes.</hi> What think ye where it ſaies the
+ſouldiers had—Orders from <hi>their Lord</hi>—in the firſt
+leafe: and one whom—<hi>They call</hi>— M. Gen. <hi>Bridges,</hi>
+in the laſt? Tuſh this is nothing: <pb n="83" facs="tcp:107072:49"/>take it by <hi>whole
+ſale</hi> (for tis not fit to be <hi>retayled) Apoſtates, Perſecutors,
+Traytors</hi> (like Judas) and a <hi>Sodomitiſh generation,</hi> and this no
+further off than the <hi>two Epiſtles</hi> is the greeting which they give
+our Powers.</p>
+               <p>He that can find a fitter name than what I give this language,
+ſhall quickly have <hi>me</hi> his diſciple; but whoſoever think<g ref="char:EOLhyphen"/>eth
+their <hi>dark</hi> profeſſion (at the cloſe of all) againſt an actuall
+riſing <hi>then,</hi> both rea<g ref="char:EOLhyphen"/>ſon enough for <hi>ſeeking out another
+name,</hi> and a ſufficient ſecurity on their parts, for <hi>keeping of the
+peace</hi> muſt give me leave to enter my diſſent. Moſt ſure
+<hi>I</hi> am, the bleſſed ſaints of God recorded in the holy
+<hi>Scriptures</hi> are not the <hi>Patrons</hi> of this ranting talke. No, we
+may learne from them <hi>it</hi> hath another father than that Spirit of
+holineſſe, meekneſſe and humi<g ref="char:EOLhyphen"/>lity which lodged in their boſomes. If
+this be newes to any Reader, let him remember what their character is: who
+<hi>deſpiſe dominions,</hi>
+                  <note place="margin">
+                     <hi>Judg.</hi> 8.2.
+<hi>Pet.</hi> 2.10. <hi>Rom.</hi> 13.1, 2, 3, <hi>&amp;c.</hi>
+                  </note>
+                  <hi>ſpeake evill of dignities,</hi> and <hi>reſiſt the powers;</hi>
+whereto the margent will aſſiſt him. Let him withall conſider ſadly
+<hi>(oh that themſelves would do it!)</hi> to whom that Prophecy holdeth out
+the finger which telleth us. <hi>In the laſt dayes <pb n="84" facs="tcp:107072:50"/>perillous times ſhall come: For men ſhall be lovers of their owne
+ſelves— diſobedient to parents—deſpiſers of</hi> others
+<hi>that are good,</hi>
+                  <note place="margin">2 <hi>Tim.</hi> 3.1.2, 3,
+<hi>&amp;c.</hi>
+                  </note>
+                  <hi>Traytors, heady, high-minded:</hi> and which is the
+miſery, all this <hi>under a forme of god<g ref="char:EOLhyphen"/>lineſſe, but without the
+power:</hi> and much more like it.</p>
+               <p>Believe it; all the paint and varniſh in the world improved by
+the rareſt <hi>Artiſt</hi> for ſetting of ſuch a rate of carriage as
+<hi>ſpirituall</hi> and <hi>divine,</hi> will have alike ſuc<g ref="char:EOLhyphen"/>ceſſe
+(with every <hi>wiſe and ſober Chriſtian</hi>) to the greateſt paines
+for waſhing white the <hi>Ethiopians</hi> skin, which is proverbially called
+<hi>Labour in vaine.</hi> No, No, with ſuch a one, as their <hi>complaining
+Teſtimony</hi> can<g ref="char:EOLhyphen"/>not be taken for a <hi>new Booke of Martyrs:</hi> ſo
+neither is he able to ſhift of his ſaddeſt feares, that ſuch a
+<hi>ſpirit</hi> as breathes there<g ref="char:EOLhyphen"/>in will do its beſt to prove himſelfe
+<hi>no baſtard</hi> to his <hi>Progenitors beyond the Seas.</hi> Although it
+be his earneſt ſuite at the throne of grace, that an Almighty hand may
+diſpoſſeſſe it of <hi>its</hi> hold in gracious hearts, and plucking
+<hi>them</hi> as brands out of the burning, fruſtrate its <hi>hopes,</hi> and
+<hi>his owne feares</hi> together.</p>
+            </div>
+            <div n="11" type="section">
+               <pb n="85" facs="tcp:107072:50"/>
+               <head>§. 11</head>
+               <p>By this time,<note place="margin">
+                     <hi>(2)</hi> [By a juſt
+Narrative of the Au<g ref="char:EOLhyphen"/>thor tou<g ref="char:EOLhyphen"/>ching—]</note> Reader, (ſuppoſing now
+thou haſt as litle mind as I my ſelfe to medle in theſe <hi>Rivals</hi>
+quarrell) thou art expecting a juſt <hi>compendium</hi> of that Affaire at
+<hi>Abingdon.</hi> And I muſt pro<g ref="char:EOLhyphen"/>feſſe there is ſo litle pleaſure to
+me in the worke, that were I not herein (with<g ref="char:EOLhyphen"/>out a complement) <hi>devoted to
+thy ſervice,</hi> a meere review of what is paſt already would bid me
+ſuperſede all further information. But, <hi>for thy ſake,</hi> untill
+they pleaſe (who wrote upon the place, all paſſages worthy obſervation)
+to gratify their Country with ſo ſmall a Curteſy as the making publique
+of their <hi>notes,</hi> I will attempt the <hi>puſhing of the pikes</hi> to
+let thee ſhare in part of that exact intelligence freely beſtowed on me
+(then abſent, as fell out, though <hi>often</hi> there, and <hi>alwaies
+living within ſix miles diſtance of the place</hi>) by perſons, and my
+honoured freinds, of <hi>Piety and Prudence,</hi> Spectators of the
+Buſineſſe.</p>
+               <p>
+                  <hi>Mr Pendarves,</hi>
+                  <note place="margin">[Mr Pen<g ref="char:EOLhyphen"/>darves his
+death]</note> late paſtour to the Adverſaries of Infant-Baptiſme in that
+<hi>Towne,</hi> having yeelded up the Ghoſt <pb n="86" facs="tcp:107072:51"/>ſome weekes
+before at <hi>London,</hi> and chan<g ref="char:EOLhyphen"/>ged his many <hi>quarrels</hi> here for
+everla<g ref="char:EOLhyphen"/>ſting <hi>peace</hi> (I am ſo perſwaded from that intimacy ſome
+yeares agoe betwixt us) in our fathers kingdome; after ſome hot debates twixt
+his ſurviving freinds about his <hi>bodies</hi> reſting place on earth: was
+brought at laſt, by water (in a cheſt like thoſe for ſugar, fild up
+with ſand, and lodged at a Grocers) there to depo<g ref="char:EOLhyphen"/>ſite the <hi>remaines of
+death,</hi> where the <hi>ſervice of his life</hi> had beene devoted. This
+brought of perſons (of the ſame complexion with him in religious mat<g ref="char:EOLhyphen"/>ters)
+out of their reſpect unto his me<g ref="char:EOLhyphen"/>mory, from <hi>moſt parts</hi> of the
+Nation, and ſome the <hi>remoteſt,</hi> a number of both ſexes (both far
+and neere) very conſide<g ref="char:EOLhyphen"/>rable.</p>
+               <p>The <hi>State</hi> tooke <hi>Item</hi> of the inconve<g ref="char:EOLhyphen"/>niences the
+concourſe of ſo great a people (where diſaffection to our preſent peace
+apparently predominates) might ſtart at ſuch an opportunity,<note place="margin">(Knowne to the ſtate)</note> and prudently to prevent the
+worſt, aſſigne eight troops of horſe under command to <hi>Major
+Ge<g ref="char:EOLhyphen"/>nerall Bridges</hi> to take up quarters, at the very <hi>Juncture,</hi> in
+<hi>Wallingford:</hi> a <hi>Towne</hi> within the ſame County, and up<g ref="char:EOLhyphen"/>on 
+<pb n="87" facs="tcp:107072:51"/>the ſame river, ſeven miles below the place
+forenamed.</p>
+               <p>All things prepared for the funerall,<note place="margin">[And
+Bu<g ref="char:EOLhyphen"/>riall with—]</note> and the company met on <hi>Tueſday</hi> the 30
+<hi>of September</hi> —56 (the day unto that worke appointed) the
+<hi>Corps,</hi> with meete ſolemnity, in a <hi>new burying place,</hi> before
+a <hi>Garden</hi> (for ſuch a one of late hath beene procured at the Townes
+Weſt end, and in the Oxeſtreete: whether becauſe they would not have
+<hi>communion with us a live or dead,</hi> or for what other reaſon I muſt
+be ſilent) is eſpouſed to the grave. <hi>That day,</hi> ſaving what
+time attendance on this evening-worke bor<g ref="char:EOLhyphen"/>rowed of neceſſity, was ſpent
+upon <hi>Religious exerciſes:</hi> ſeverall, as thereunto drawne forth,
+taking their turnes in <hi>praying</hi> and in <hi>ſpeaking.</hi> The
+<hi>morrow is as yeſtarday with them.</hi>
+               </p>
+            </div>
+            <div n="12" type="section">
+               <head>§. 12.</head>
+               <p>But tis ſad to heare at <hi>what a rate</hi> they deale with
+<hi>God</hi> and <hi>Man.</hi>
+                  <note place="margin">[The com<g ref="char:EOLhyphen"/>panies ſtrange and
+ſad beha<g ref="char:EOLhyphen"/>viour there at the mee<g ref="char:EOLhyphen"/>ting.</note> The burden of that whole
+demeanor rings only, as a disingaged perſon will be apt to thinke, of blowing
+the match that ſhould give fire unto the trayne layd <pb n="88" facs="tcp:107072:52"/>for
+enflaming heaven and earth <hi>againſt our peace and powers.</hi>
+               </p>
+               <p>There it was ſaid (with gall enough) <hi>The treacherous dealers
+have dealt very treacherouſly:</hi> and I thinke none want directions for the
+application. <hi>There it was told the Lord that he had made</hi> Him <hi>like
+to Cain (who ſlew his brother) a vaga<g ref="char:EOLhyphen"/>bond, and one afraid where no feare
+is.</hi>
+               </p>
+               <p>And to make ſure the dulleſt Schollar might underſtand the
+perſon aimed at, <hi>t'was added,</hi> therefore <hi>he ſends after us;
+Lord bring him downe, we will not give thee reſt untill thou anſwere
+us.</hi> There was the <hi>Man</hi> that had <hi>face enough</hi> to ſay,
+<hi>God never proſpered our armies by land nor ſea ſince our rebellion
+againſt</hi> Jeſus Chriſt, <hi>and turning traytors to his kingdome: and,
+to ſee the forehead! this notorious falſehood (without a bluſh) ſpoke
+to the face of God himſelfe, with ſolemne notice taken of his hand
+appearing in it, and farther hopes ex<g ref="char:EOLhyphen"/>preſſed that he would never make it
+better with us for hereafter.</hi> Truly this takes the leſſe upon us unto
+admiration, ſince ſure enough, <hi>falſe witneſſe</hi> is an evill
+hardly of ſo <hi>deepe a dye</hi> as <hi>blood.</hi> And yet the queſtion
+being ſtarted there by one in prayer, <hi>whether Gods people muſt be a 
+<pb n="89" facs="tcp:107072:52"/>bloody people</hi> (in an active ſenſe) <hi>was
+carry<g ref="char:EOLhyphen"/>ed by the ſame in the affirmative, who ſpake it with ſufficient
+boldneſſe (what<g ref="char:EOLhyphen"/>ever others ſay unto the contrary)</hi> that <hi>they
+muſt be a Bloody People.</hi> To make which paſſage good (tis too too
+probable) the requeſt was ſent to heaven by him that beg'd importunately
+for a <hi>powring forth the ſpirits of Davids Soul<g ref="char:EOLhyphen"/>diers on them, whereby
+their hands might be taught to war and fingers to fight, that when they had
+done all they might give the glory unto God.</hi> Which that it might not die
+as a faint deſire in the very birth <hi>was midwif'd</hi> unto life &amp;
+vigour by the greateſt care, as of other hands; ſo of his eſpecially, who
+in a large diſcourſe drew forth a <hi>parallell</hi> betwixt <hi>Gods
+people's</hi> caſe with us, and <hi>Lots in Sodome,</hi> from <hi>Gen.</hi>
+19.15. the text he ſpake 'on. Thence (if the Reader will accept a taſt of
+what at large lies by me) <hi>he acquaints the people, that Gods people muſt
+not ſtay in the plaine, but up to the mountaines and undertake hard things:
+with more unto that purpoſe.</hi> The <hi>doctrine</hi> thus commended was
+cleared by removall of objections, as from the <hi>hardneſſe of the
+diſpenſation,</hi> the <hi>improbabili<g ref="char:EOLhyphen"/>ty of accompliſhing the
+deſigne,</hi> a <hi>trade,</hi> a <pb n="90" facs="tcp:107072:53"/>
+                  <hi>family,</hi> and
+<hi>relations</hi> to be attended, ye<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>ſoule injoyments</hi> within, <hi>beſides outwards, liberty
+of Gods Ordinances,</hi> and ſuch like: which all being put together (it was
+con<g ref="char:EOLhyphen"/>feſſed) ſeeme to ſpeake faire for ſitting ſtill and being
+quiet. But a wet finger wipes off all. <hi>For tis returned hereto, amongſt
+other things, that tis worſe to ſtay in Babylon,</hi> Lot <hi>had got
+nothing by ſaying thus: a fiery diſpenſation tis, up then and be gone
+leaſt flames ore take you. The call muſt be obeyed, though as</hi> Abram
+<hi>did, you goe you know not whither. Nothing that is deare muſt now be
+valued. Expect rubs in the way; arugged diſpenſation tis.</hi> Friends,
+Relations, great ones <hi>of the Earth, will</hi> oppoſe, <hi>and</hi>
+oppreſſe <hi>you. But the worke is Gods, and</hi> he will proſper it.
+<hi>If this will not ſalue the ſoare: then the curſe</hi> on Meroz for
+not ſubmitting to the preſent diſpenſation in coming forth to helpe the
+Lord againſt the mighty; and menacings of Gods fury breaking out againſt
+that man, that out of <hi>Jeare,</hi> or a <hi>ſpirit of indifferency</hi>
+declines the worke, is brought in to inforce the Exhortation paſt all
+reſiſtance. But for the <hi>diſpenſation</hi> talked of, he that would
+know what that may be, is ſoone <pb n="91" facs="tcp:107072:53"/>informed by attending
+only unto what that <hi>perſon</hi> ſpake thereof, who told the <hi>Major
+Generall</hi> upon his examination: <hi>Though it had beene of the</hi> Lambe
+<hi>heretofore, yet now it was to be the</hi> diſpenſation of the Lyon. 
+<q>
+                     <hi>I had almoſt forgot to give you no<g ref="char:EOLhyphen"/>tice of his</hi>
+Revelation, <hi>who, in the peoples hearing, held the</hi> Almighty <hi>very
+hard in prayer on a ſpeciall promiſe, made him before he came thither, to
+meete him there with ſpeciall preſence.</hi>
+                  </q> 
+               </p>
+               <p>As for the dealing with the <hi>publique preachers of the
+Goſpel</hi> at that meeting (to ſave their longing who perhaps deſire
+thereof a litle intimation) let it be knowne in briefe, the
+<hi>Courtſhip</hi> there <hi>afforded them without diſtinction, Wa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, dumb dogs, members of Babylon, Antichriſtian
+prieſts, and the ſmoake of the bottomleſſe pit.</hi> Save that
+<hi>he</hi> ſeemed a litle modeſter, who was complaining <hi>that the
+waters of the Sanctuary did run foule, and ſcarcely one in a hundred of them
+is able to give a reaſon of the hope that is in them:</hi> till at the laſt
+he fauls ſo foule as to praye, <hi>downe with the Prieſts,</hi> without
+mercy unto any one at all among them.</p>
+               <p>Reader, me thinks, thou ſhouldeſt excuſe me, if I have no
+farther mind to <pb n="92" facs="tcp:107072:54"/>rake in ſuch a kennell, tho it would be
+eaſy, <hi>from the hands aforeſaid,</hi> to acquaint thee with much more a
+kin to this, about both <hi>praying down, &amp; pulling down the Powers that
+impriſon Saints,</hi> about <hi>both flat and frequent calling</hi> (SOME
+BODY) <hi>Rebell and Traytor,</hi> about <hi>comparing ſouldiers unto Iriſh
+Rebels,</hi> about <hi>tearing fleſh;</hi> and ſuch like diſhes,
+ſer<g ref="char:EOLhyphen"/>ved in, as common entertainement, within the compaſſe of that
+meeting.</p>
+            </div>
+            <div n="13" type="section">
+               <head>§. 13.</head>
+               <p>Tidings hereof was quickly brought (for you muſt know there were
+that did <hi>by Order</hi> lye leaguer for exact intelli<g ref="char:EOLhyphen"/>gence) unto the
+<hi>Major Generall.</hi>
+                  <note place="margin">[Signified to the M. Generall
+who—]</note> Who, whether wiſely to give them <hi>rope,</hi> or in
+ex<g ref="char:EOLhyphen"/>pectation of their voluntary ſeparation, or (whereto for certaine
+reaſons I rather do encline) upon miſinformation given by a <hi>leading
+perſon thereabouts,</hi> forbeares, notwithſtanding this ſo juſt and
+full a provocation, the firſt and ſecond dayes of their convention <hi>in
+ſo publique manner:</hi> for you muſt know that many of them on
+<hi>Saturday</hi> before firſt tooke the Towne.<note place="margin">[Sends a
+party that-]</note> On <hi>Thurſday</hi> morning a party of ſome fifty
+horſe commanded by a <hi>Lievetenant</hi> 
+                  <pb n="93" facs="tcp:107072:54"/>is diſpatched
+with Orders to diſſolve the meeting.</p>
+               <p>Upon their entrance the pleaſure of the ſtate was publiſhed
+to them, THAT THEY MUST DEPART UNTO THEIR SEVERALL HABITATIONS; thoſe that
+are ſtrangers that is; for <hi>Townesmen</hi> they are left unto their
+liberty.</p>
+               <p>This would not <hi>take</hi> upon them, though backed with
+importunities both of perſwaſions and intreaties.</p>
+               <p>Some had given out before, that they had put up requeſts to God
+they waited for returnes unto, &amp; did not know how long they might be kept
+in expectation. But the common anſwer was by flat affronts to the Souldiers
+faces. A guard was ſet upon the houſe they met in, that they might not
+enter there. The multitude cut ſcores for that, and <hi>hurry to the mar<g ref="char:EOLhyphen"/>ket
+place.</hi>
+                  <note place="margin">[Under greateſt pa<g ref="char:EOLhyphen"/>tience and bittereſt
+provoca<g ref="char:EOLhyphen"/>tion]</note> There in the <hi>Cryers Pulpit</hi> they begin to
+<hi>pray</hi> and <hi>ſpeake,</hi> or rather <hi>rant and raile</hi> in wild
+confuſion. Abu<g ref="char:EOLhyphen"/>ſing the <hi>Protector;</hi> and the <hi>Souldiers</hi> to
+their very teethes. <hi>There one cryes out now</hi> Lord <hi>appeare, now or
+never for con<g ref="char:EOLhyphen"/>founding of theſe thine and our Enemies.</hi> A<g ref="char:EOLhyphen"/>nother, <hi>we
+are not for</hi> Cromwels King<g ref="char:EOLhyphen"/>dome, <pb n="94" facs="tcp:107072:55"/>
+                  <hi>for</hi> Prieſts
+<hi>and</hi> Univerſities, <hi>but for the Kingdome of Chriſt.</hi> Whole
+arme<g ref="char:EOLhyphen"/>fuls more of <hi>Billingſgate flowers,</hi> far fetch<g ref="char:EOLhyphen"/>ed indeede, but at
+the cheapeſt rate were there put off that might be. The <hi>female ſex</hi>
+meane while encouraging the <hi>Tumult-leaders</hi> with their acclamation,
+<hi>Hold on ye Sons of Syon.</hi> One paſſage more at leaſt is worth your
+noting, I meane that mans <hi>Adventure,</hi> who in the market place calls for
+a ſigne from hea<g ref="char:EOLhyphen"/>ven in hearing of that great aſſembly, though alſo
+know 'twas with alike ſuc<g ref="char:EOLhyphen"/>ceſſe to thoſe that <hi>had no voyce, nor any
+anſwering, in the</hi> 18 <hi>of Kings the</hi> 18 <hi>and the</hi> 26. O the
+amazing patience of him that ſeeth <hi>ſpight and miſchiefe,</hi> which
+he can with eaſe requite, and yet forbea<g ref="char:EOLhyphen"/>reth!</p>
+               <p>When at the laſt their contempt and obſtinacy was growne
+inſuperable,<note place="margin">[Diſſolves the mee<g ref="char:EOLhyphen"/>ting.]</note> either by
+requeſt or by commands, the <hi>Souldi<g ref="char:EOLhyphen"/>ers</hi> were conſtrained with their
+<hi>owne hands</hi> to pull downe the <hi>ſpeakers,</hi> and ſo to make
+diviſion of them. But of all the <hi>miſchiefe</hi> done in ſuch a
+tumult, at ſuch reſiſtance, by <hi>Canes,</hi> and <hi>Swords</hi> (for
+the Guns it ſeemes were ſilent) <hi>whatever it were,</hi> I cannot learne
+unto this day, <pb n="95" facs="tcp:107072:55"/>though I live ſo neare, and have often
+ſince been upon the queſt among <hi>them<g ref="char:EOLhyphen"/>ſelves</hi> and <hi>others,
+there</hi> and <hi>elſe where,</hi> who <hi>hath a wound to ſhew for that
+dayes work.</hi> The worſt that ever I met with, and <hi>that was from
+themſelves</hi> (for I will not wil<g ref="char:EOLhyphen"/>lingly conceale a little worth the
+hea<g ref="char:EOLhyphen"/>ring) was that <hi>ſome body,</hi> who I know not, was ſlightly
+ſcratched upon the noſe (as others tells me) by a Souldier in the drawing
+forth his ſword: and another <hi>individuum vagum</hi> cut upon the hand.</p>
+               <p>This being over, the <hi>Major Generall</hi> en<g ref="char:EOLhyphen"/>ters with his
+whole <hi>Brigade</hi> of horſe, and having called before
+<hi>himſelfe,</hi> and <hi>cheifeſt officers</hi> the principall
+ſomenters of that <hi>Seditious Buſineſſe,</hi> aſſayes, not meerly
+by <hi>extreame civility,</hi> but <hi>freindly and affectio<g ref="char:EOLhyphen"/>nate
+tenderneſſe</hi> to reduce them to ſobri<g ref="char:EOLhyphen"/>ety. But with what
+ſucceſſe? None would acknowledge, as to owne, the preſent Government.
+Many, <hi>even hoyes,</hi> with heads uncovered would diſpute <hi>it</hi>
+with him. And others would <hi>not engage for Peace,</hi> not knowing, as they
+ſaid, how ſoone they might <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+called out to do the Lords work.</p>
+               <p>Upon the iſſue of this whole affayre but <hi>only five</hi> of
+all that number (where <pb n="96" facs="tcp:107072:56"/>the common ſignall of a Mutiny
+<hi>[they were all one]</hi> was often given out) were committed unto cuſtody
+(though ſince,<note place="margin">[The iſſue of all, with]</note> 
+                  <hi>I
+heare,</hi> releaſed) for further anſwer to their misbehaviour. Yet what
+<hi>a ſtirre</hi> is made about it: much rather, at how <hi>cheap a rate</hi>
+a tumult of that nature was appea<g ref="char:EOLhyphen"/>ſed, I think is worthy admiration. Rea<g ref="char:EOLhyphen"/>der;
+thou haſt the <hi>ſumme</hi> and <hi>ſubſtance</hi> of what upon this
+ſubject came to my hands from perſons, as I told, thee of
+<hi>unqueſtio<g ref="char:EOLhyphen"/>nable credit:</hi> whereto (without the breach of modeſty, I
+nothing doubt) I may and do profeſſe a faithfull adherence on my parte from
+firſt to laſt. And if thou wanteſt yet ſome <hi>fuller evidence</hi>
+for ripe<g ref="char:EOLhyphen"/>ning of thy Judgment on the iſſue of ſuch ſtrange
+behaviour,<note place="margin">[Intima<g ref="char:EOLhyphen"/>tion of the Spring and head
+there<g ref="char:EOLhyphen"/>of.]</note> I thinke thou wilt not looſe thy labour by conſulting
+only GENERATION WORK Part 1. eſpecially pag. 23.24.110. compared with a
+<hi>Sermon,</hi> ſometime preached in Abingdon, a ſhort account whereof
+thou haſt, in an Appendix to <hi>Church-Rules for Abingdon,</hi> publiſhed
+by the <hi>Miniſter</hi> there, who heard it preached without the leaſt
+reply thereto unto this day, though long before <hi>his</hi> death, whoſe
+buriall did give life unto <hi>The Tumult.</hi> That the <pb n="97" facs="tcp:107072:56"/>
+                  <hi>Morall Law,</hi> for inſtance <hi>[thou ſhalt not kill]</hi>
+ſhould vayle the bonnet to a <hi>[diſ<g ref="char:EOLhyphen"/>penſation meerely]</hi> calling
+unto <hi>blood!</hi> The Lord awaken ſoules and make them try before they
+truſt.</p>
+               <p>Preſuming now at laſt, thou art as wea<g ref="char:EOLhyphen"/>ry as my ſelfe,
+having once, good Rea<g ref="char:EOLhyphen"/>der, but expoſtulated a little with <hi>our
+diſcontented Brethren</hi> I'le turne thee looſe,</p>
+            </div>
+            <div n="14" type="section">
+               <head>§. 14.</head>
+               <opener>
+                  <salute>Sirs,</salute>
+               </opener>
+               <p>Will you vouchſafe to caſt an eye (in<g ref="char:EOLhyphen"/>different) on a few
+lines,<note place="margin">
+                     <hi>(P. 3.)</hi> [An Ex<g ref="char:EOLhyphen"/>poſtulation with our
+diſcontented Brethren, about]</note> that do proteſt (as farre as
+poſſibly their utmoſt intima<g ref="char:EOLhyphen"/>cy with their Maſters mind can reach) have
+nothing elſe before them but <hi>your reall ſervice?</hi> An <hi>almes</hi>
+(me thinks) <hi>ſo cheape,</hi> you ſhould not grudge (ſo ma<g ref="char:EOLhyphen"/>ny of you at
+the leaſt as have not <hi>ſealed Indentures</hi> unto <hi>ſullen
+Paſſion</hi>) an ear<g ref="char:EOLhyphen"/>neſt beggar, ſuppoſe him <hi>freind,</hi> or
+<hi>other<g ref="char:EOLhyphen"/>wiſe.</hi>
+               </p>
+               <p>What is it then that ayleth you to make this noyſe,<note place="margin">[Their pre<g ref="char:EOLhyphen"/>ſent injoy<g ref="char:EOLhyphen"/>ments, and]</note> and ſtirre you do?
+Why cannot the Nations reſt in peace all long of your diſturbance? Who is
+the <hi>Man</hi> that doth, or dares entrench upon your <pb n="98" facs="tcp:107072:57"/>priviledges, but at his perill, and on whom you may be righted, if you
+liſt to make complaint? Is not the ſeife ſame <hi>ſcope,</hi> and
+<hi>elbow roome</hi> allowed you in all <hi>concernments,</hi> as any the good
+people of the Nations whatſoever? Wher's any o<g ref="char:EOLhyphen"/>ther <hi>Lord</hi> and
+<hi>Maſter</hi> of your faith, but whom your ſelves ſet up? Are not your
+<hi>meetings</hi> for doctrine and for practice left to your owne diſcretion?
+Can you com<g ref="char:EOLhyphen"/>plaine the <hi>beames of ſupreame Power</hi> light with a fairer
+and fuller influence on the <hi>otherwiſe minded,</hi> than thoſe of
+<hi>your per<g ref="char:EOLhyphen"/>ſwaſion?</hi> Name the capacities for <hi>Honour</hi> or
+<hi>Advantage</hi> (or what you pleaſe that is worth the naming) whereto your
+<hi>meere Profeſſion</hi> can give a non-ſuite to your claime. Do not all
+men ſee <hi>many your freinds</hi> (for we preſume your ſelves do not
+think the ſeverall merits of them all can mount ſo high) in <hi>Court,</hi>
+and Camp, <hi>in Councill</hi> and in Country, <hi>Stars of the greater
+magnitude?</hi>
+               </p>
+            </div>
+            <div n="15" type="section">
+               <head>§. 15.</head>
+               <p>The <hi>premiſes</hi> are ſo above board in open view to
+all,<note place="margin">[Paſt Pro<g ref="char:EOLhyphen"/>feſſions, compared]</note> that I am
+ſo little ſolicitous <hi>about your owne conceſſion</hi> of them, as to
+<pb n="99" facs="tcp:107072:57"/>be confident <hi>very ſtrangers</hi> in our Iſrael are
+apt to think the diſeaſe lyes not in periſhing for <hi>want,</hi>
+                  <note place="margin">[Paſt Pro<g ref="char:EOLhyphen"/>feſſions, compared]</note> but <hi>taking ſurfet
+by exceſſe.</hi> Look back a little; how long is it ſince the world was
+made beleive <hi>farre leſſe than this</hi> would have ſerved your turne?
+Can your ſelves forget <hi>the time wherein</hi> you bare in hand, might you
+<hi>but</hi> at the laſt reach <hi>but</hi> to <hi>liberty in Gods
+worſhip,</hi> you ſhould ſit downe as at your journeyes end? This, O
+this, the very <hi>darling</hi> of our hearts, and <hi>life</hi> of ſoules
+(the ſpeech then went) would <hi>make a<g ref="char:EOLhyphen"/>mends and over meaſure to ſighes
+and groanes, to prayers and teares, to coyne and blood adventured for it.</hi>
+And now the <hi>treaſure</hi> is landed with Intereſt for its ſtay ſo
+long, and both injoyed, not yet to be <hi>conten<g ref="char:EOLhyphen"/>ted,</hi> nay to cry out
+<hi>all's loſt and ſhip wrack<g ref="char:EOLhyphen"/>ed,</hi> whom doth not this amaze? who can
+unriddle it? Say, yee had ſomething (we know not of) to <hi>ſtop our
+mouthes</hi> with<g ref="char:EOLhyphen"/>all, will it ſerve to <hi>ſilence Providence</hi>
+al<g ref="char:EOLhyphen"/>ſo? What think ye, Sirs, when <hi>Egypt</hi> is left, the
+<hi>wilderneſſe</hi> over, the <hi>Sea</hi> paſſed, the
+<hi>Egyptians</hi> dead upon the ſhoare, yea the <hi>land of promiſe</hi>
+viewed already, and ready to be entred on: if the people now (prompted by an
+unhappy faction) will <pb n="100" facs="tcp:107072:58"/>be complaining ſtill, as if they
+were at <hi>their brickes and laſh;</hi> if <hi>Moſes</hi> and
+<hi>Aaron,</hi> the inſtruments of their deliverance, muſt be <hi>kicked
+off with ſcorne</hi> for all their ſervice; if through their ſides by
+<hi>mutinous mur<g ref="char:EOLhyphen"/>mures</hi> and <hi>ſeditious practiſes</hi> the face of
+heaven be flowen againſt, and the <hi>whole bundle</hi> of deare bought
+mercies quite <hi>un<g ref="char:EOLhyphen"/>ravelled to the very end of the bottome:</hi> what think
+ye if the <hi>Lord</hi> diſtaſt this courſe, and declare from heaven
+againſt the <hi>Abet<g ref="char:EOLhyphen"/>tors</hi> of it in a dreadfull poſture? will
+<hi>ſuch a doctrine</hi> learne us nothing in the <hi>Ap<g ref="char:EOLhyphen"/>plication?</hi>
+Could there be nothing ſaid in their behalfe, <hi>who ſerve Chriſt
+Jeſus in his Goſpell publickly,</hi> but that you might adde farther to
+your preſent work of let<g ref="char:EOLhyphen"/>ting fly whole <hi>quivers of arrowes,</hi> even
+bitter words, againſt them, without di<g ref="char:EOLhyphen"/>ſtinction, notwithſtanding their
+beſpea<g ref="char:EOLhyphen"/>king you in the Apoſtles language <hi>where is the
+bleſſedneſſe you</hi> (ſometime) <hi>ſpake of? for I beare you
+record that, if it had been poſſible, you would have plucked out your eyes
+and given them us. Are we therefore be<g ref="char:EOLhyphen"/>come your Enemies becauſe we tell you
+the truth?</hi> I ſay but that you might adde far<g ref="char:EOLhyphen"/>ther (oh moſt ſad!)
+endeavours to ful<g ref="char:EOLhyphen"/>fill the prophecy <hi>John</hi> 16.2. He that kill<g ref="char:EOLhyphen"/>eth 
+<pb n="101" facs="tcp:107072:58"/>you ſhall think he doth God ſervice. Yet, Sirs, to
+<hi>raiſe</hi> your ſelves upon the <hi>ruines of your other Brethren</hi>
+(for theſe you will not take into the number) or <hi>both</hi> to fall as
+footſtooles to a <hi>worſer third,</hi> be<g ref="char:EOLhyphen"/>ſides the riotous waſting
+ſuch a ſtock of pretious mercies, and making all pro<g ref="char:EOLhyphen"/>feſſion a
+hiſſing and a by-word unto ſcor<g ref="char:EOLhyphen"/>ners, cannot (me thinks) but be of
+<hi>diſ<g ref="char:EOLhyphen"/>mall conſideration to your owne retired thoughts.</hi> Whether the
+face of things now carrying on amongſt you look not this way <hi>too
+wiſhly,</hi> who is it almoſt but can reſolve it? oh that your ſelves
+would time<g ref="char:EOLhyphen"/>ly look to it!</p>
+            </div>
+            <div n="16" type="section">
+               <head>§. 16.</head>
+               <p>For what you talke of (enough at ran<g ref="char:EOLhyphen"/>dome truly) <hi>Old
+principles are apoſtatized from.</hi>
+                  <note place="margin">[Conſideration of
+their Objections <hi>1</hi> Old prin<g ref="char:EOLhyphen"/>ciples de<g ref="char:EOLhyphen"/>parted from,, and—]</note>
+If humane frailties in your <hi>ſuppoſed Adverſaries</hi> although our
+<hi>Rulers</hi> muſt have (hard meaſure!) no benefit of Clergy at your
+hands; if the bleſſing upon <hi>Sem</hi> and <hi>Japhet</hi> when
+<hi>Ham</hi> was cur<g ref="char:EOLhyphen"/>ſed <hi>Gen.</hi> 9. be not at all regarded; if the
+<hi>weapons</hi> of the Ancient Church (preten<g ref="char:EOLhyphen"/>ded to by none more then your
+ſelves in former daies) <hi>Prayers and Teares</hi> muſt 
+<pb n="102" facs="tcp:107072:59"/>be quite <hi>throwne downe,</hi> as never more to be
+<hi>taken up:</hi> yet at the leaſt be coole a little, whilſt I aske you,
+Will not <hi>all principles</hi> and engagements ſpoken of be eaſily (in
+your owne ſenſe) reſolved into this one, PROMOTING SIONS IN<g ref="char:EOLhyphen"/>TEREST? I am
+confident you do admit it. Then further, tell me, Is not <hi>encou<g ref="char:EOLhyphen"/>ragement of
+Gods people in their worſhiping of him according to their different
+light</hi> (I appeale unto your ſelves, according to what you hither to have
+ſpoke and wrote) <hi>moſt eminently the</hi> life and ſoule of SIONS
+INTEREST? I take this alſo granted. And I beſeech you now, if taking breath
+a lit<g ref="char:EOLhyphen"/>tle, you put us to the proofe that this <hi>is as the apple of the
+eye</hi> unto our preſent Governours, do ye not (bethink your ſelves) make
+queſtion <hi>whether fire be hot,</hi> or which comes to one, <hi>doubt of
+the Suns being up at noone?</hi> All other <hi>principalls</hi> en<g ref="char:EOLhyphen"/>gaged to,
+from whence you ſay depar<g ref="char:EOLhyphen"/>ture is made, when once you make the world
+acquainted with them (till when I hope your charity muſt excuſe a
+non-attendance on them) if they prove ſuch indeed as can <hi>find their
+Regiſter</hi> amongſt the reſt of kin to Sion, I think, a private
+per<g ref="char:EOLhyphen"/>ſon may undertake either to ſhew them <pb n="103" facs="tcp:107072:59"/>ſwallowed
+up as rivers in this Sea, or (craving leave) in the ſtates behalfe to
+promiſe a ſeaſonable <hi>retrivement</hi> of them. Meane while 'twould
+well become us <hi>private perſons</hi> to look to our exemplar, <hi>who made
+me Judge?</hi> and move within our proper ſphere, by minding of that worke
+<hi>our calling</hi> doth cut out unto us.</p>
+            </div>
+            <div n="17" type="section">
+               <head>§. 17.</head>
+               <p>And for the <hi>tenour</hi> of all your moanes,<note place="margin">[<hi>2</hi> Chriſts viſible Raigne neg<g ref="char:EOLhyphen"/>lected]</note>
+                  <hi>Chriſts raigne is not regarded.</hi> For my part I muſt tell you, it
+hath beene of<g ref="char:EOLhyphen"/>tentimes refreſhment unto me (the ra<g ref="char:EOLhyphen"/>ther I confeſſe for
+yours and ſome o<g ref="char:EOLhyphen"/>ther angry peoples ſakes) that I ſee juſt cauſe,
+even at this day, to pronounce it after David, <hi>The Lord doth reigne let the
+earth rejoyce, and the I ſles bee glad thereof.</hi> As for the <hi>viſible
+kingdome</hi> whereof you are in travaile in the expectation; at leaſt you
+may be told, that <hi>It</hi> is of later date, I meane as to your common
+taking notice of it, than thoſe <hi>Engagements</hi> ſpoken of, as revolted
+from, and ſo were not <hi>in view</hi> when they were entred. It lies upon
+you therefore to acknowledge the dealing is not faire to <hi>raiſe your
+level</hi> 
+                  <pb n="104" facs="tcp:107072:60"/>for it on that ground: making complaint of
+being falſe (if I miſtake not) to what was ſcarcely thought on, much
+leſſe enga<g ref="char:EOLhyphen"/>ged to.</p>
+               <p>Beſides I hope, your ſelves allow that many <hi>eminent
+ſoules in grace,</hi>
+                  <note place="margin">[Whereof many god<g ref="char:EOLhyphen"/>ly doubt,
+&amp;—</note> not cleare therein (although not ſimply contradicting it)
+are yet as heartily deſirous <hi>as your ſelves</hi> both of their
+Maſters exaltation and their owne moſt neare injoyment of him who,
+conſequently, did it appeare his mind, could bid as welcome to it (though it
+may be to their coſts in ſome reſpects) as others ſeeme to do; and
+there<g ref="char:EOLhyphen"/>fore do not deſerve ſuch weight and mea<g ref="char:EOLhyphen"/>ſure at your hands or
+tongues as yet they find. But you may know it hath no litle influence on them
+to <hi>ſuſpende</hi> about it, when, beſides what ever may be ſaid as
+to the ſeaſon.</p>
+            </div>
+            <div n="18" type="section">
+               <head>§. 18.</head>
+               <p>Firſt,<note place="margin">[Why] <hi>(1)</hi>
+                  </note> tis as bright
+as day to them, that the deſigne wherewith the Goſpell is filled up to the
+very top lookes at a <hi>king<g ref="char:EOLhyphen"/>dome</hi> not conſiſting <hi>in meates</hi>
+and <hi>drink,</hi> in <hi>worldly power &amp; the like</hi> (ſufficiently
+plea<g ref="char:EOLhyphen"/>ſing doubtleſſe to the fleſhly part) but of <pb n="105" facs="tcp:107072:60"/>another nature, <hi>Righteouſneſſe, and peace, and joy in the
+Holy Ghoſt.</hi> To make us <hi>Kings</hi> and <hi>Prieſts,</hi> not among
+men, but <hi>unto God:</hi> triumphers, <hi>through belie<g ref="char:EOLhyphen"/>ving,</hi> one
+<hi>Hell, and curſe, and ſin,</hi> not by a carnall weapon over all men
+elſe, though nere ſo godly, if not complyers with our perſwaſion.</p>
+               <p>And then remember,<note place="margin">(2)</note> their
+<hi>Lord</hi> (ac<g ref="char:EOLhyphen"/>cording to the prophecy of him that he ſhould <hi>not cry,
+nor lift up, nor cauſe his voyce to be heard in the ſtreet,</hi> as the
+mode of earthly Princes is) not only did refuſe to be <hi>made a king</hi> on
+earth, but ſeemeth elſewhere to give the reaſon <hi>of it, My kingdome is
+not of this world.</hi>
+               </p>
+               <p>
+                  <hi>And</hi> it <hi>doth not yet appeare that ever he changed his
+mind.</hi>
+               </p>
+               <p>Beſide it is no doubt with them but that it was the
+<hi>diſciples weakneſſe</hi> (before the powring forth of the ſpirit on
+them) which they alſo had received by traditi<g ref="char:EOLhyphen"/>on from their Jewiſh fathers
+to <hi>expect Meſſiah's reigning in an earthly king<g ref="char:EOLhyphen"/>dome.</hi>
+                  <note place="margin">(3)</note>
+               </p>
+               <p>Adde hereto, that the proofe <hi>[of ſuch a kingdome]</hi> is
+borrowed onely from <hi>dar<g ref="char:EOLhyphen"/>ker prophecies,</hi> and <hi>obſcurer
+paſſages,</hi>
+                  <note place="margin">(4)</note> in the booke of God, not
+written with that <pb n="106" facs="tcp:107072:61"/>
+                  <hi>Sun-beame</hi> the <hi>other</hi>
+is, wherewith their hearts are taken up. And it is worth your heeding, that as
+tis <hi>paſt excuſe</hi> in them, who wretchedly <hi>ſport</hi> the
+Scrip<g ref="char:EOLhyphen"/>tures into a <hi>very Allegory,</hi> ſo they muſt <hi>beare their
+blame,</hi> who in the prophecies thereof will looke no further than the
+<hi>ear<g ref="char:EOLhyphen"/>thy ſide</hi> of promiſed mercies. The <hi>Holy Ghoſt</hi> ſo
+cloathing ſpirituall bleſſings <hi>then</hi> (as likely moſt to take on
+children) in the Churches <hi>non-age,</hi> yet <hi>when</hi> ſhe is growne
+up in <hi>Goſpell daies</hi> would have her underſtand them in the
+ſenſe he meant them. And therefore <hi>more than once</hi> we find ſuch
+prophecies of the <hi>old Teſtament</hi> as ſeeme to ſpeake of glory and
+advantage to the <hi>outward,</hi> yet in the <hi>New,</hi> interpre<g ref="char:EOLhyphen"/>ted by
+<hi>himſelfe,</hi> of thoſe belonging to the <hi>inward man.</hi>
+               </p>
+               <p>And <hi>laſtly,</hi>
+                  <note place="margin">(5)</note> their great
+experience of ſmall advantage by injoying <hi>ſo</hi> the world at will
+unto the ſpirituall part (the reaſon why ſo many good words in the booke
+of God we find beſtowed on afflictions) and ſad obſervations of their
+unhappy fate (through an apparent hand of God therein) who in an over hot
+purſuit of an <hi>earthy kingdome,</hi> quite <hi>loſe</hi> (ſo it falls
+out) <hi>the way</hi> onto the <hi>heavenly:</hi> witneſſe the former
+ſtory.</p>
+               <pb n="107" facs="tcp:107072:61"/>
+               <p>Theſe things caſt up together are thought by ſome to come to
+ſomewhat, that may make a <hi>ſober Chriſtian</hi> pauſe upon the
+buſineſſe.</p>
+            </div>
+            <div n="19" type="section">
+               <head>§. 19.</head>
+               <p>But, put the caſe 'twere paſt all queſti<g ref="char:EOLhyphen"/>on that ſuch a
+kingdome ſhould ſome<g ref="char:EOLhyphen"/>times be.<note place="margin">[If gran<g ref="char:EOLhyphen"/>ted not by Sin to
+be promoted, there<g ref="char:EOLhyphen"/>fore—]</note> May we the while do evill that good may
+come upon it? Or needeth the <hi>Lord Jeſus</hi> our lye unto his glory? Or
+do ye thinke, (and I be<g ref="char:EOLhyphen"/>ſeech you to be ſerious in it,) it is his mind we
+ſhould pull downe <hi>HIS WRITTEN LAWES IN SCRIPT<g ref="char:V">Ʋ</g>RE,</hi> to <hi>ſet up
+a kingdome ſo darkely written there,</hi> as next to not at all? That nothing
+leſſe than this way laies you in the road, you travaile, was ſeene
+before, and I therefore hope you neede no <hi>Monitor afreſh.</hi> If <hi>my
+words</hi> will not take upon you, at leaſt let the <hi>Apoſtles</hi> have
+their errand with you.<note place="margin">[They are Exhorted]</note> 
+                  <hi>We
+beſeech you BRETHREN ſtudy to be quiet,</hi> doing <hi>your owne
+buſineſſe. Beware of ſuffering as evill doers,</hi> or, which is all
+one, <hi>as buſy bodies</hi> in other mens affaires, perſwade your
+ſelves, 'twere <pb n="108" facs="tcp:107072:62"/>much more happy with us, would we all
+make conſcience more to tend the <hi>duties of thoſe Places wherein we
+are,</hi> than quar<g ref="char:EOLhyphen"/>rell by our carriage even at Providence <hi>for placing us
+unto ſuch duties.</hi> Come, Sirs, lets never pawne the <hi>publique
+peace,</hi> the <hi>comfort of our ſoules,</hi> the <hi>credit of our
+deareſt Lord,</hi> for ſatisfaction to a <hi>diſcon<g ref="char:EOLhyphen"/>tented humour;</hi>
+which, when it hath de<g ref="char:EOLhyphen"/>voured them all, <hi>will ne're be full, whilſt we
+have fleſh to feede it.</hi> My heart doth give me, that if many of you did
+but ſee unto <hi>the end</hi> that way, you enter now ſo boldly on,
+<hi>doth lead,</hi> 'twould make your ſoules ride poſt, with ſwitch and
+ſpurre, craving all helpe of heaven and earth, untill you were got out
+againe: Re<g ref="char:EOLhyphen"/>member, Sirs, it is not uſuall for men <hi>at once</hi> to arrive
+at the <hi>very worſt.</hi> No, <hi>our malignant Enemy Satan</hi> leads
+<hi>by ſteps:</hi> but when tis downe <hi>a ſteepe</hi> tis hard
+reco<g ref="char:EOLhyphen"/>vering; for him eſpecially that <hi>is far gone. One evill ſpirit</hi>
+once bad welcome makes roome with eaſe and ſpeede for <hi>ſeven
+other</hi> worſer than himſelfe. Who hath not heard that <hi>litle
+boyes</hi> creep in at win<g ref="char:EOLhyphen"/>dowes <hi>to open dores for bigger theeves?</hi> Why
+do we not lay to heart <hi>how great a <pb n="109" facs="tcp:107072:62"/>matter a litle fire
+kindleth?</hi>
+               </p>
+               <p>Sirs, be intreated <hi>in the bowels of Jeſus Chriſt,</hi> to
+ſtoop betimes to <hi>Solomons</hi> counſell: <hi>let thine eye looke right
+on, and thine eyelids ſtrait before thee, Ponder the path of thy feet and let
+thy waies be ſtabli<g ref="char:EOLhyphen"/>ſhed.</hi>
+               </p>
+            </div>
+            <div n="20" type="section">
+               <head>§. 20.</head>
+               <p>May the Lord ariſe to favour Sion and repaire thoſe
+<hi>ſaddeſt gaving breaches,</hi>
+                  <note place="margin">[The Lord intreated
+and]</note> Ig<g ref="char:EOLhyphen"/>norance and errour with the want of Chriſtian love on every
+hand have either <hi>made upon her</hi> or do <hi>keepe open</hi> in her; and
+turne unto his people a pure language, that with <hi>one conſent</hi> his
+Name be called on amongſt them, and no reſt given him till he make
+<hi>Jeruſalem</hi> the praiſe of all the the earth. And May the <hi>ſame
+Lord</hi> in mercy reſcue the <hi>honeſt upright ſoules amongſt
+you,</hi> not yet acquainted with the depthes of Satan, from that unhappy
+ſnare of being longer made the <hi>ſtaulking horſe</hi> unto the
+<hi>Jeſuiticall,</hi> and <hi>Satanicall</hi> deſigne of thoſe, who
+pro<g ref="char:EOLhyphen"/>ſtitute <hi>Religion, Conſcience,</hi> (what not?) for <hi>homage</hi>
+to their accurſed <hi>IDOLS, ADVANTAGE,</hi> and <hi>AMBI<g ref="char:EOLhyphen"/>TION.</hi>
+               </p>
+               <pb n="110" facs="tcp:107072:63"/>
+               <p>
+                  <note place="margin">[The whole concluded.]</note>This is the
+Authors fervent prayer for <hi>Her</hi> and <hi>you:</hi> a freind (how ere you
+take him) affectionate unto <hi>Both:</hi> and whoſe ſoule deſireth ever
+to be found <hi>in doing nothing againſt the</hi> TRUTH, <hi>but for
+it.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>Hinton, Berks.</hi> 
+                     <date>
+                        <hi>December</hi> 26. 1656.</date>
+                  </dateline> 
+                  <signed>W. Hughes.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>Miſtakes of the Preſſe.</head>
+            <p>
+               <hi>Epiſt. p.</hi> 5. <hi>l.</hi> 23 <hi>d. y. ibid. l.</hi> 25.
+<hi>r.</hi> no. <hi>Book. p.</hi> 2. <hi>l.</hi> 1. <hi>d. ta. p:</hi> 49.
+<hi>l. penult. r.</hi> claſhing. <hi>p.</hi> 50. <hi>l.</hi> 6. <hi>to
+honeſt ad</hi> people <hi>Poſtſcr. p.</hi> 1. <hi>l.</hi> 1. <hi>marg.
+ad</hi> (P. 1. An Apology) <hi>p.</hi> 2. <hi>Title r.</hi> Abington Tumult
+<hi>ibm. l.</hi> 26. <hi>r.</hi> fire. <hi>p.</hi> 4. <hi>l.</hi> 12.
+<hi>r.</hi> ehuſeth <hi>p.</hi> 68. <hi>l.</hi> 26. <hi>after one ad</hi>
+once. <hi>p.</hi> 69. <hi>l. penult. ad</hi> (1. By their owne report)
+<hi>p.</hi> 75. <hi>l.</hi> 1. <hi>in too d. o. p.</hi> 79. <hi>l.</hi> 7.
+<hi>d.</hi> the <hi>pag.</hi> 85. <hi>l.</hi> 16. <hi>r.</hi> paſſing
+<hi>p.</hi> 95. <hi>l.</hi> 7. <hi>r. title.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
